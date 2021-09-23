@@ -1,29 +1,18 @@
-# README #
+# Elite:Dangerous Control Bindings Manager #
+An Excel Spreadsheet and R code to read and manage Elite:Dangerous control bindings with a focus on the Logitech/Saitek X56 HOTAS. 
 
-This README would normally document whatever steps are necessary to get your application up and running.
+### Files: ###
+* Elite Dangerous Controls Map.xlsm
 
-### What is this repository for? ###
+### Resources ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* [EDRefCard public configurations for the X56](https://edrefcard.info/list?deviceFilter=SaitekX56)
 
-### How do I get set up? ###
+### Requirements ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Microsoft Excel
+* R
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Confugure path to R

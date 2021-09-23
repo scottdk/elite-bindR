@@ -1,0 +1,3 @@
+Category;Name;ActionType;Device;Duration;Key;Modifier;Description
+ED Keyboard Bindings included;((Up Thrusters 8s));PressKey;Keyboard;8.00;{UpThrustButton};;
+Macro Part;((UI Up 6s));PressKey;Keyboard;2.00;{UI_Up};;Part of the request docking macro

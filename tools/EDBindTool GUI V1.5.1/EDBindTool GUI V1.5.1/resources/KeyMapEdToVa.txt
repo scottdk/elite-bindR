@@ -1,0 +1,155 @@
+Key_Escape;Escape
+Key_1;1
+Key_2;2
+Key_3;3
+Key_4;4
+Key_5;5
+Key_6;6
+Key_7;7
+Key_8;8
+Key_9;9
+Key_0;0
+Key_Minus;- _
+Key_Equals;None
+Key_Backspace;Back
+Key_Tab;Tab
+Key_Q;Q
+Key_W;W
+Key_E;E
+Key_R;R
+Key_T;T
+Key_Y;Y
+Key_U;U
+Key_I;I
+Key_O;O
+Key_P;P
+Key_LeftBracket;OemOpenBrackets
+Key_RightBracket;Oem6
+Key_Enter;Return
+Key_LeftControl;Left Ctrl
+Key_A;A
+Key_S;S
+Key_D;D
+Key_F;F
+Key_G;G
+Key_H;H
+Key_J;J
+Key_K;K
+Key_L;L
+Key_SemiColon;Oem1
+Key_Apostrophe;Oem7
+Key_Grave;Oemtilde
+Key_LeftShift;Left Shift
+Key_BackSlash;OemBackslash
+Key_Z;Z
+Key_X;X
+Key_C;C
+Key_V;V
+Key_B;B
+Key_N;N
+Key_M;M
+Key_Comma;, 
+Key_Period;. :
+Key_Slash;OemQuestion
+Key_RightShift;Right Shift
+Key_Numpad_Multiply;Numpad Multiply
+Key_LeftAlt;Left Alt
+Key_Space;Space
+Key_CapsLock;Caps Lock
+Key_F1;F1
+Key_F2;F2
+Key_F3;F3
+Key_F4;F4
+Key_F5;F5
+Key_F6;F6
+Key_F7;F7
+Key_F8;F8
+Key_F9;F9
+Key_F10;F10
+Key_NumLock;NumLock
+Key_ScrollLock;Scroll
+Key_Numpad_7;NumPad 7
+Key_Numpad_8;NumPad 8
+Key_Numpad_9;NumPad 9
+Key_Numpad_Subtract;NumPad Subtract
+Key_Numpad_4;NumPad 4
+Key_Numpad_5;NumPad 5
+Key_Numpad_6;NumPad 6
+Key_Numpad_Add;NumPad Add
+Key_Numpad_1;NumPad 1
+Key_Numpad_2;NumPad 2
+Key_Numpad_3;NumPad 3
+Key_Numpad_0;NumPad 0
+Key_Numpad_Decimal;NumPad Decimal
+Key_OEM_102;Oem102
+Key_F11;F11
+Key_F12;F12
+Key_F13;F13
+Key_F14;F14
+Key_F15;F15
+Key_Kana;KanaMode
+Key_ABNT_C1;None
+Key_Convert;None
+Key_NoConvert;None
+Key_Yen;None
+Key_ABNT_C2;None
+Key_Numpad_Equals;None
+Key_PrevTrack;MediaPreviousTrack
+Key_AT;None
+Key_Colon;Oem1
+Key_Underline;None
+Key_Kanji;HanjaMode
+Key_Stop;MediaStop
+Key_AX;None
+Key_Unlabeled;NoName
+Key_NextTrack;MediaNextTrack
+Key_Numpad_Enter;Return
+Key_RightControl;Right Ctrl
+Key_Mute;VolumeMute
+Key_Calculator;None
+Key_PlayPause;MediaPlayPause
+Key_MediaStop;MediaStop
+Key_VolumeDown;Volume Down
+Key_VolumeUp;Volume Up
+Key_WebHome;Browser Home
+Key_Numpad_Comma;NumPad Decimal
+Key_Numpad_Divide;NumPad Divide
+Key_SYSRQ;PrintScreen
+Key_RightAlt;Right Alt
+Key_Pause;Pause
+Key_Home;Home
+Key_UpArrow;Up
+Key_PageUp;Page Up
+Key_LeftArrow;Left
+Key_RightArrow;Right
+Key_End;End
+Key_DownArrow;Down
+Key_PageDown;Next
+Key_Insert;Insert
+Key_Delete;Delete
+Key_LeftWin;Left Win
+Key_RightWin;Right Win
+Key_Apps;Apps
+Key_Power;None
+Key_Sleep;Sleep
+Key_Wake;None
+Key_WebSearch;Browser Search
+Key_WebFavourites;Browser Favorites
+Key_WebRefresh;Browser Refresh
+Key_WebStop;Browser Stop
+Key_WebForward;Browser Forward
+Key_WebBack;Browser Back
+Key_MyComputer;None
+Key_Mail;Launch Mail
+Key_MediaSelect;Select Media
+Key_GreenModifier;None
+Key_OrangeModifier;None
+Key_ä;ä
+Key_ö;ö
+Key_ü;ü
+Key_ß;ß ?
+Key_Plus;+ *
+Key_Acute;´ `
+Key_LessThan;< >
+Key_Circumflex;^ °
+Key_Hash;# '
