@@ -2,7 +2,8 @@
 An Excel Spreadsheet and R code to read and manage Elite:Dangerous control bindings with a focus on the Logitech/Saitek X56 HOTAS. 
 
 ### Files: ###
-* Elite Dangerous Controls Map.xlsm
+* Elite Dangerous Controls Map Excel Spreadsheet
+* edcm.xlsm
 
 ### Resources ###
 
