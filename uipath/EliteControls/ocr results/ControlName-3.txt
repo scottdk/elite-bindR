@@ -1,0 +1,5 @@
+RELATIVE MOUSE X-AXIS
+-------
+Causes the mouse's position to centre
+horizontally over time.
+-------

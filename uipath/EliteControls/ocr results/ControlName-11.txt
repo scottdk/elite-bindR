@@ -1,0 +1,5 @@
+SHOW MOUSE WIDGET
+-------
+Show a widget that indicates what the
+mouse is doing.
+-------

@@ -1,0 +1,5 @@
+YAW RIGHT
+-------
+Digital input for yawing the ship right
+(turning right).
+-------

@@ -1,0 +1,5 @@
+MOUSE SENSITIVITY
+-------
+Adjusts the sensitivity of the mouse
+movement.
+-------

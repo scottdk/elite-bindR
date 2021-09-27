@@ -1,0 +1,5 @@
+MOUSE DEADZONE
+-------
+Adjusts the deadzone of the mouse
+movement.
+-------

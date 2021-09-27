@@ -1,0 +1,13 @@
+YAW INTO ROLL - FLIGHT
+ASSIST OFF
+-------
+Enable a slight yaw action based on roll
+input, when flight assist is off:
+Default to standard controls use
+whatever option is defined for normal
+Off no yaw into roll functionality.
+On initial roll will apply a slight yaw
+when you begin a roll.
+On low roll will apply yaw only on a low
+roll input and roll only on high roll
+-------
