@@ -1,4 +1,4 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="_1_Screenshots" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="1543,1147" sap2010:WorkflowViewState.IdRef="_1_Screenshots_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="_1_Screenshots" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="1543,5083" sap2010:WorkflowViewState.IdRef="_1_Screenshots_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
       <x:String>System.Activities</x:String>
@@ -70,7 +70,6 @@
       <AssemblyReference>UiPath.Excel</AssemblyReference>
       <AssemblyReference>UiPath.OCR.Activities.Design</AssemblyReference>
       <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
-      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
       <AssemblyReference>UiPath.Vision.Core</AssemblyReference>
       <AssemblyReference>UiPath.OCR.Contracts</AssemblyReference>
     </sco:Collection>
@@ -81,7 +80,7 @@
       <x:Boolean x:Key="ShouldExpandAll">True</x:Boolean>
     </scg:Dictionary>
   </sap:WorkflowViewStateService.ViewState>
-  <Sequence sap2010:Annotation.AnnotationText="Actual total rows = 500&#xA;Using 510" DisplayName="1_Screenshots" sap:VirtualizedContainerService.HintSize="991,4002" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="Actual total rows = 500&#xA;Using 510" DisplayName="1_Screenshots" sap:VirtualizedContainerService.HintSize="1093,5018" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="ui:Image" Name="screenshot" />
       <Variable x:TypeArguments="x:Int32" Name="ScrRows" />
@@ -89,26 +88,10 @@
       <Variable x:TypeArguments="x:Int32" Name="StartAtLine" />
       <Variable x:TypeArguments="x:String" Name="MenuFilename" />
       <Variable x:TypeArguments="ui:UiElement" Name="element" />
-      <Variable x:TypeArguments="x:Int32" Name="PreviousItem">
-        <Variable.Default>
-          <Literal x:TypeArguments="x:Int32" />
-        </Variable.Default>
-      </Variable>
-      <Variable x:TypeArguments="x:Int32" Name="MenuItem">
-        <Variable.Default>
-          <Literal x:TypeArguments="x:Int32" />
-        </Variable.Default>
-      </Variable>
-      <Variable x:TypeArguments="x:String" Name="MenuFolder">
-        <Variable.Default>
-          <Literal x:TypeArguments="x:String">screenshots\menus\</Literal>
-        </Variable.Default>
-      </Variable>
-      <Variable x:TypeArguments="x:String" Name="CommandFolder">
-        <Variable.Default>
-          <Literal x:TypeArguments="x:String">screenshots\</Literal>
-        </Variable.Default>
-      </Variable>
+      <Variable x:TypeArguments="x:Int32" Default="0" Name="PreviousItem" />
+      <Variable x:TypeArguments="x:Int32" Default="0" Name="MenuItem" />
+      <Variable x:TypeArguments="x:String" Default="screenshots\menus\" Name="MenuFolder" />
+      <Variable x:TypeArguments="x:String" Default="screenshots\" Name="CommandFolder" />
       <Variable x:TypeArguments="x:String" Name="CommandFilename" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
@@ -118,7 +101,7 @@
         <x:Boolean x:Key="IsPinned">False</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:MultipleAssign DisplayName="Assign Variables" sap:VirtualizedContainerService.HintSize="949,222" sap2010:WorkflowViewState.IdRef="MultipleAssign_1">
+    <ui:MultipleAssign DisplayName="Assign Variables" sap:VirtualizedContainerService.HintSize="1051,222" sap2010:WorkflowViewState.IdRef="MultipleAssign_1">
       <ui:MultipleAssign.AssignOperations>
         <scg:List x:TypeArguments="ui:AssignOperation" Capacity="8">
           <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_1">
@@ -134,7 +117,7 @@
               <OutArgument x:TypeArguments="x:Int32">[TotalRows]</OutArgument>
             </ui:AssignOperation.To>
             <ui:AssignOperation.Value>
-              <InArgument x:TypeArguments="x:Int32">30</InArgument>
+              <InArgument x:TypeArguments="x:Int32">504</InArgument>
             </ui:AssignOperation.Value>
           </ui:AssignOperation>
           <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_3">
@@ -142,7 +125,7 @@
               <OutArgument x:TypeArguments="x:Int32">[StartAtLine]</OutArgument>
             </ui:AssignOperation.To>
             <ui:AssignOperation.Value>
-              <InArgument x:TypeArguments="x:Int32">24</InArgument>
+              <InArgument x:TypeArguments="x:Int32">1</InArgument>
             </ui:AssignOperation.Value>
           </ui:AssignOperation>
           <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_4">
@@ -170,41 +153,29 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:MultipleAssign>
-    <ui:WindowScope ApplicationWindow="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" Window="{x:Null}" DisplayName="Attach Game Window" sap:VirtualizedContainerService.HintSize="949,3606" sap2010:WorkflowViewState.IdRef="WindowScope_1" InformativeScreenshot="25119c7272250a09316c3eb563fdfae8" Selector="&lt;wnd app='elitedangerous64.exe' cls='FrontierDevelopmentsAppWinClass' title='Elite - Dangerous (CLIENT)' /&gt;">
+    <ui:WindowScope ApplicationWindow="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" Window="{x:Null}" DisplayName="Attach Game Window" sap:VirtualizedContainerService.HintSize="1051,4622" sap2010:WorkflowViewState.IdRef="WindowScope_1" InformativeScreenshot="25119c7272250a09316c3eb563fdfae8" Selector="&lt;wnd app='elitedangerous64.exe' cls='FrontierDevelopmentsAppWinClass' title='Elite - Dangerous (CLIENT)' /&gt;">
       <ui:WindowScope.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Take Screenshots" sap:VirtualizedContainerService.HintSize="915,3460" sap2010:WorkflowViewState.IdRef="Sequence_10">
+          <Sequence DisplayName="Take Screenshots" sap:VirtualizedContainerService.HintSize="1017,4436" sap2010:WorkflowViewState.IdRef="Sequence_10">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <Sequence DisplayName="Go to Controls Options Screen" sap:VirtualizedContainerService.HintSize="873,66" sap2010:WorkflowViewState.IdRef="Sequence_3">
+            <Sequence DisplayName="Go to Controls Options Screen" sap:VirtualizedContainerService.HintSize="975,66" sap2010:WorkflowViewState.IdRef="Sequence_3">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                   <x:Boolean x:Key="IsPinned">True</x:Boolean>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <ui:WaitUiElementAppear WaitActive="{x:Null}" WaitVisible="{x:Null}" DisplayName="Find Element" FoundElement="[element]" sap:VirtualizedContainerService.HintSize="334,106" sap2010:WorkflowViewState.IdRef="WaitUiElementAppear_2">
-                <ui:WaitUiElementAppear.Target>
-                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" Id="6927562c-8b4a-418b-bcbb-2c30bf1d14d4" InformativeScreenshot="05cb8e3d1e7cde7febefba6df7fef727">
-                    <ui:Target.TimeoutMS>
-                      <InArgument x:TypeArguments="x:Int32" />
-                    </ui:Target.TimeoutMS>
-                    <ui:Target.WaitForReady>
-                      <InArgument x:TypeArguments="ui:WaitForReady" />
-                    </ui:Target.WaitForReady>
-                  </ui:Target>
-                </ui:WaitUiElementAppear.Target>
-              </ui:WaitUiElementAppear>
               <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayMS="{x:Null}" EmptyField="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DelayBefore="200" DelayBetweenKeys="500" DisplayName="Type Info: Main Menu" sap:VirtualizedContainerService.HintSize="334,96" sap2010:WorkflowViewState.IdRef="TypeInto_1" Text="%%[k(esc)][k(esc)][k(esc)]">
                 <ui:TypeInto.Target>
-                  <ui:Target ClippingRegion="{x:Null}" Selector="{x:Null}" Element="[element]" Id="fcc62b57-63aa-41d4-a778-d5d54e62ff03">
+                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" Id="fcc62b57-63aa-41d4-a778-d5d54e62ff03">
                     <ui:Target.TimeoutMS>
                       <InArgument x:TypeArguments="x:Int32" />
                     </ui:Target.TimeoutMS>
@@ -216,7 +187,7 @@
               </ui:TypeInto>
               <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" EmptyField="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DelayBefore="200" DelayBetweenKeys="200" DelayMS="200" DisplayName="Type Into: Go to options" sap:VirtualizedContainerService.HintSize="334,96" sap2010:WorkflowViewState.IdRef="TypeInto_2" Text="[k(down)][k(down)][k(down)]  ">
                 <ui:TypeInto.Target>
-                  <ui:Target ClippingRegion="{x:Null}" Selector="{x:Null}" Element="[element]" Id="e56beb0a-84c8-45ba-ae94-c8f8d25e9a72">
+                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" Id="e56beb0a-84c8-45ba-ae94-c8f8d25e9a72">
                     <ui:Target.TimeoutMS>
                       <InArgument x:TypeArguments="x:Int32" />
                     </ui:Target.TimeoutMS>
@@ -228,7 +199,7 @@
               </ui:TypeInto>
               <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" EmptyField="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DelayBetweenKeys="10" DelayMS="50" DisplayName="Move down a row" sap:VirtualizedContainerService.HintSize="334,96" sap2010:WorkflowViewState.IdRef="TypeInto_5" Text="s">
                 <ui:TypeInto.Target>
-                  <ui:Target ClippingRegion="{x:Null}" Selector="{x:Null}" Element="[element]" Id="e29c7f3c-d1da-44e4-a76f-85e8f34fd572">
+                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" Id="e29c7f3c-d1da-44e4-a76f-85e8f34fd572">
                     <ui:Target.TimeoutMS>
                       <InArgument x:TypeArguments="x:Int32" />
                     </ui:Target.TimeoutMS>
@@ -246,7 +217,7 @@
               </ui:TypeInto>
               <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" EmptyField="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DelayBetweenKeys="10" DelayMS="150" DisplayName="Expand menu section" sap:VirtualizedContainerService.HintSize="334,96" sap2010:WorkflowViewState.IdRef="TypeInto_6" Text="=">
                 <ui:TypeInto.Target>
-                  <ui:Target ClippingRegion="{x:Null}" Selector="{x:Null}" Element="[element]" Id="e29c7f3c-d1da-44e4-a76f-85e8f34fd572">
+                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" Id="e29c7f3c-d1da-44e4-a76f-85e8f34fd572">
                     <ui:Target.TimeoutMS>
                       <InArgument x:TypeArguments="x:Int32" />
                     </ui:Target.TimeoutMS>
@@ -263,29 +234,29 @@
                 </sap:WorkflowViewStateService.ViewState>
               </ui:TypeInto>
             </Sequence>
-            <ui:RepeatNumberOfTimesX DisplayName="Loop Through Control Rows" sap:VirtualizedContainerService.HintSize="873,2033" sap2010:WorkflowViewState.IdRef="RepeatNumberOfTimesX_1" NumberOfTimes="[TotalRows]" StartAt="1">
+            <ui:RepeatNumberOfTimesX DisplayName="Loop Through Control Rows" sap:VirtualizedContainerService.HintSize="975,3109" sap2010:WorkflowViewState.IdRef="RepeatNumberOfTimesX_1" NumberOfTimes="[TotalRows]" StartAt="1">
               <ui:RepeatNumberOfTimesX.Body>
                 <ActivityAction x:TypeArguments="x:Int32">
                   <ActivityAction.Argument>
                     <DelegateInArgument x:TypeArguments="x:Int32" Name="CurrentItem" />
                   </ActivityAction.Argument>
-                  <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="839,1878" sap2010:WorkflowViewState.IdRef="Sequence_9">
+                  <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="941,2954" sap2010:WorkflowViewState.IdRef="Sequence_9">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                         <x:Boolean x:Key="IsPinned">False</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <Sequence DisplayName="Move down a row and expand" sap:VirtualizedContainerService.HintSize="797,66" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                    <Sequence DisplayName="Move down a row and expand" sap:VirtualizedContainerService.HintSize="899,586" sap2010:WorkflowViewState.IdRef="Sequence_4">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                          <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                          <x:Boolean x:Key="IsPinned">False</x:Boolean>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
-                      <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" EmptyField="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DelayBetweenKeys="10" DelayMS="50" DisplayName="Move down a row" sap:VirtualizedContainerService.HintSize="334,96" sap2010:WorkflowViewState.IdRef="TypeInto_3" Text="s">
+                      <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" EmptyField="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DelayBetweenKeys="10" DelayMS="100" DisplayName="Move down a row" sap:VirtualizedContainerService.HintSize="334,96" sap2010:WorkflowViewState.IdRef="TypeInto_3" Text="s">
                         <ui:TypeInto.Target>
-                          <ui:Target ClippingRegion="{x:Null}" Selector="{x:Null}" Element="[element]" Id="e29c7f3c-d1da-44e4-a76f-85e8f34fd572">
+                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" Id="e29c7f3c-d1da-44e4-a76f-85e8f34fd572">
                             <ui:Target.TimeoutMS>
                               <InArgument x:TypeArguments="x:Int32" />
                             </ui:Target.TimeoutMS>
@@ -302,9 +273,9 @@
                         </sap:WorkflowViewStateService.ViewState>
                       </ui:TypeInto>
                       <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="LogMessage_7" Level="Info" Message="[&quot;CurrentItem: &quot; + CurrentItem.ToString + &quot; - Move to Item&quot;]" />
-                      <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" EmptyField="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DelayBetweenKeys="10" DelayMS="150" DisplayName="Expand menu section" sap:VirtualizedContainerService.HintSize="334,96" sap2010:WorkflowViewState.IdRef="TypeInto_4" Text="=">
+                      <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" EmptyField="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DelayBetweenKeys="10" DelayMS="200" DisplayName="Expand menu section" sap:VirtualizedContainerService.HintSize="334,96" sap2010:WorkflowViewState.IdRef="TypeInto_4" Text="=">
                         <ui:TypeInto.Target>
-                          <ui:Target ClippingRegion="{x:Null}" Selector="{x:Null}" Element="[element]" Id="e29c7f3c-d1da-44e4-a76f-85e8f34fd572">
+                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" Id="e29c7f3c-d1da-44e4-a76f-85e8f34fd572">
                             <ui:Target.TimeoutMS>
                               <InArgument x:TypeArguments="x:Int32" />
                             </ui:Target.TimeoutMS>
@@ -322,7 +293,7 @@
                       </ui:TypeInto>
                       <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;CurrentItem: &quot; + CurrentItem.ToString + &quot; - Expand to Item - (PreviousItem&quot; + PreviousItem.ToString + &quot;), PreviousItem MOD ScrRows = &quot; + (PreviousItem MOD ScrRows).ToString]" />
                     </Sequence>
-                    <If Condition="[CurrentItem &gt;= StartAtLine]" DisplayName="Screenshot Control Item" sap:VirtualizedContainerService.HintSize="797,718" sap2010:WorkflowViewState.IdRef="If_2">
+                    <If Condition="[CurrentItem &gt;= StartAtLine]" DisplayName="Screenshot Control Item" sap:VirtualizedContainerService.HintSize="899,996" sap2010:WorkflowViewState.IdRef="If_2">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -330,13 +301,13 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                       <If.Then>
-                        <Sequence DisplayName="Screenshot Command" sap:VirtualizedContainerService.HintSize="376,561" sap2010:WorkflowViewState.IdRef="Sequence_8">
+                        <Sequence DisplayName="Screenshot Command" sap:VirtualizedContainerService.HintSize="478,839" sap2010:WorkflowViewState.IdRef="Sequence_8">
                           <sap:WorkflowViewStateService.ViewState>
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
-                          <Assign sap:VirtualizedContainerService.HintSize="334,60" sap2010:WorkflowViewState.IdRef="Assign_6">
+                          <Assign sap:VirtualizedContainerService.HintSize="436,60" sap2010:WorkflowViewState.IdRef="Assign_6">
                             <Assign.To>
                               <OutArgument x:TypeArguments="x:String">[CommandFilename]</OutArgument>
                             </Assign.To>
@@ -344,12 +315,38 @@
                               <InArgument x:TypeArguments="x:String">["control-" + CurrentItem.tostring("000")+".png"]</InArgument>
                             </Assign.Value>
                           </Assign>
-                          <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[&quot;CurrentItem: &quot; + CurrentItem.ToString + &quot; - TAKE COMMAND SCREENSHOT '&quot; + CommandFilename + &quot;' (PreviousItem = &quot; + PreviousItem.ToString + &quot;)&quot;]" />
-                          <ui:TakeScreenshot WaitBefore="{x:Null}" DisplayName="Take a Screenshot" sap:VirtualizedContainerService.HintSize="334,106" sap2010:WorkflowViewState.IdRef="TakeScreenshot_3" Screenshot="[screenshot]">
+                          <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="436,91" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[&quot;CurrentItem: &quot; + CurrentItem.ToString + &quot; - TAKE COMMAND SCREENSHOT '&quot; + CommandFilename + &quot;' (PreviousItem = &quot; + PreviousItem.ToString + &quot;)&quot;]" />
+                          <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="436,238" sap2010:WorkflowViewState.IdRef="CommentOut_1">
+                            <ui:CommentOut.Body>
+                              <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="376,160" sap2010:WorkflowViewState.IdRef="Sequence_15">
+                                <sap:WorkflowViewStateService.ViewState>
+                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                  </scg:Dictionary>
+                                </sap:WorkflowViewStateService.ViewState>
+                                <ui:Highlight HighlightTime="{x:Null}" Color="Gold" sap:VirtualizedContainerService.HintSize="334,68" sap2010:WorkflowViewState.IdRef="Highlight_3">
+                                  <ui:Highlight.Target>
+                                    <ui:Target Element="{x:Null}" Selector="{x:Null}" Id="c7d290c6-d528-43c2-9654-02f4bff7b889">
+                                      <ui:Target.ClippingRegion>
+                                        <ui:Region Rectangle="2235, 433, 528, 852" />
+                                      </ui:Target.ClippingRegion>
+                                      <ui:Target.TimeoutMS>
+                                        <InArgument x:TypeArguments="x:Int32" />
+                                      </ui:Target.TimeoutMS>
+                                      <ui:Target.WaitForReady>
+                                        <InArgument x:TypeArguments="ui:WaitForReady" />
+                                      </ui:Target.WaitForReady>
+                                    </ui:Target>
+                                  </ui:Highlight.Target>
+                                </ui:Highlight>
+                              </Sequence>
+                            </ui:CommentOut.Body>
+                          </ui:CommentOut>
+                          <ui:TakeScreenshot WaitBefore="{x:Null}" DisplayName="Take a Screenshot" sap:VirtualizedContainerService.HintSize="436,106" sap2010:WorkflowViewState.IdRef="TakeScreenshot_3" Screenshot="[screenshot]">
                             <ui:TakeScreenshot.Target>
                               <ui:Target Element="{x:Null}" Selector="{x:Null}" Id="51cc8b77-e6a6-4210-9c81-9af70a56d6b3" InformativeScreenshot="7190ac6aa5a64230a429dd83ace8d9be">
                                 <ui:Target.ClippingRegion>
-                                  <ui:Region Rectangle="2235, 433, 528, 853" />
+                                  <ui:Region Rectangle="2235, 433, 528, 852" />
                                 </ui:Target.ClippingRegion>
                                 <ui:Target.TimeoutMS>
                                   <InArgument x:TypeArguments="x:Int32" />
@@ -360,7 +357,7 @@
                               </ui:Target>
                             </ui:TakeScreenshot.Target>
                           </ui:TakeScreenshot>
-                          <ui:SaveImage DisplayName="Save Command Screenshot" FileName="[CommandFolder + CommandFilename]" sap:VirtualizedContainerService.HintSize="334,92" sap2010:WorkflowViewState.IdRef="SaveImage_3" Image="[screenshot]" />
+                          <ui:SaveImage DisplayName="Save Command Screenshot" FileName="[CommandFolder + CommandFilename]" sap:VirtualizedContainerService.HintSize="436,92" sap2010:WorkflowViewState.IdRef="SaveImage_3" Image="[screenshot]" />
                         </Sequence>
                       </If.Then>
                       <If.Else>
@@ -381,7 +378,7 @@
                         </Sequence>
                       </If.Else>
                     </If>
-                    <If Condition="[PreviousItem MOD ScrRows = 0 AND PreviousItem &gt; 0]" DisplayName="If - Screenshot Left menu every 13th  row or Last Row" sap:VirtualizedContainerService.HintSize="797,822" sap2010:WorkflowViewState.IdRef="If_1">
+                    <If Condition="[PreviousItem MOD ScrRows = 0 AND PreviousItem &gt; 0]" DisplayName="If - Screenshot Left menu every 13th  row or Last Row" sap:VirtualizedContainerService.HintSize="899,1100" sap2010:WorkflowViewState.IdRef="If_1">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -389,14 +386,14 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                       <If.Then>
-                        <Sequence DisplayName="Take Left menu Screenshots" sap:VirtualizedContainerService.HintSize="376,665" sap2010:WorkflowViewState.IdRef="Sequence_7">
+                        <Sequence DisplayName="Take Left menu Screenshots" sap:VirtualizedContainerService.HintSize="478,943" sap2010:WorkflowViewState.IdRef="Sequence_7">
                           <sap:WorkflowViewStateService.ViewState>
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                               <x:Boolean x:Key="IsPinned">False</x:Boolean>
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
-                          <Assign sap:VirtualizedContainerService.HintSize="334,60" sap2010:WorkflowViewState.IdRef="Assign_2">
+                          <Assign sap:VirtualizedContainerService.HintSize="436,60" sap2010:WorkflowViewState.IdRef="Assign_2">
                             <Assign.To>
                               <OutArgument x:TypeArguments="x:Int32">[MenuItem]</OutArgument>
                             </Assign.To>
@@ -404,7 +401,7 @@
                               <InArgument x:TypeArguments="x:Int32">[MenuItem + 1]</InArgument>
                             </Assign.Value>
                           </Assign>
-                          <Assign DisplayName="Set Menu item filename" sap:VirtualizedContainerService.HintSize="334,64" sap2010:WorkflowViewState.IdRef="Assign_1">
+                          <Assign DisplayName="Set Menu item filename" sap:VirtualizedContainerService.HintSize="436,64" sap2010:WorkflowViewState.IdRef="Assign_1">
                             <Assign.To>
                               <OutArgument x:TypeArguments="x:String">[MenuFilename]</OutArgument>
                             </Assign.To>
@@ -419,12 +416,38 @@ PreviousItem.tostring("000")    +
 ".png"]</InArgument>
                             </Assign.Value>
                           </Assign>
-                          <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;CurrentItem: &quot; + CurrentItem.ToString + &quot; - TAKE MENU SCREENSHOT '&quot; + MenuFilename + &quot;' (PreviousItem = &quot; + PreviousItem.ToString + &quot;)&quot;]" />
-                          <ui:TakeScreenshot WaitBefore="{x:Null}" DisplayName="Screenshot 13 rows" sap:VirtualizedContainerService.HintSize="334,106" sap2010:WorkflowViewState.IdRef="TakeScreenshot_2" Screenshot="[screenshot]">
+                          <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="436,91" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;CurrentItem: &quot; + CurrentItem.ToString + &quot; - TAKE MENU SCREENSHOT '&quot; + MenuFilename + &quot;' (PreviousItem = &quot; + PreviousItem.ToString + &quot;)&quot;]" />
+                          <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="436,238" sap2010:WorkflowViewState.IdRef="CommentOut_2">
+                            <ui:CommentOut.Body>
+                              <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="376,160" sap2010:WorkflowViewState.IdRef="Sequence_16">
+                                <sap:WorkflowViewStateService.ViewState>
+                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                  </scg:Dictionary>
+                                </sap:WorkflowViewStateService.ViewState>
+                                <ui:Highlight HighlightTime="{x:Null}" Color="Gold" sap:VirtualizedContainerService.HintSize="334,68" sap2010:WorkflowViewState.IdRef="Highlight_4">
+                                  <ui:Highlight.Target>
+                                    <ui:Target Element="{x:Null}" Selector="{x:Null}" Id="c7d290c6-d528-43c2-9654-02f4bff7b889">
+                                      <ui:Target.ClippingRegion>
+                                        <ui:Region Rectangle="995, 416, 1200, 822" />
+                                      </ui:Target.ClippingRegion>
+                                      <ui:Target.TimeoutMS>
+                                        <InArgument x:TypeArguments="x:Int32" />
+                                      </ui:Target.TimeoutMS>
+                                      <ui:Target.WaitForReady>
+                                        <InArgument x:TypeArguments="ui:WaitForReady" />
+                                      </ui:Target.WaitForReady>
+                                    </ui:Target>
+                                  </ui:Highlight.Target>
+                                </ui:Highlight>
+                              </Sequence>
+                            </ui:CommentOut.Body>
+                          </ui:CommentOut>
+                          <ui:TakeScreenshot WaitBefore="{x:Null}" DisplayName="Screenshot 13 rows" sap:VirtualizedContainerService.HintSize="436,106" sap2010:WorkflowViewState.IdRef="TakeScreenshot_2" Screenshot="[screenshot]">
                             <ui:TakeScreenshot.Target>
-                              <ui:Target Selector="{x:Null}" Element="[element]" Id="51cc8b77-e6a6-4210-9c81-9af70a56d6b3" InformativeScreenshot="e8fb62cfb142072bba521858b5145e6c">
+                              <ui:Target Element="{x:Null}" Selector="{x:Null}" Id="51cc8b77-e6a6-4210-9c81-9af70a56d6b3" InformativeScreenshot="e8fb62cfb142072bba521858b5145e6c">
                                 <ui:Target.ClippingRegion>
-                                  <ui:Region Rectangle="990, 426, 597, 818" />
+                                  <ui:Region Rectangle="995, 416, 1200, 822" />
                                 </ui:Target.ClippingRegion>
                                 <ui:Target.TimeoutMS>
                                   <InArgument x:TypeArguments="x:Int32" />
@@ -441,14 +464,14 @@ PreviousItem.tostring("000")    +
                               </scg:Dictionary>
                             </sap:WorkflowViewStateService.ViewState>
                           </ui:TakeScreenshot>
-                          <ui:SaveImage DisplayName="Save Menu Image" FileName="[MenuFolder + MenuFilename]" sap:VirtualizedContainerService.HintSize="334,92" sap2010:WorkflowViewState.IdRef="SaveImage_2" Image="[screenshot]" />
+                          <ui:SaveImage DisplayName="Save Menu Image" FileName="[MenuFolder + MenuFilename]" sap:VirtualizedContainerService.HintSize="436,92" sap2010:WorkflowViewState.IdRef="SaveImage_2" Image="[screenshot]" />
                         </Sequence>
                       </If.Then>
                       <If.Else>
                         <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="LogMessage_5" Level="Info" Message="[&quot;CurrentItem: &quot; + CurrentItem.ToString + &quot; - SKIP MENU SCREENSHOT '&quot; + MenuFilename + &quot;' (PreviousItem = &quot; + PreviousItem.ToString + &quot;)&quot;]" />
                       </If.Else>
                     </If>
-                    <Assign sap:VirtualizedContainerService.HintSize="797,60" sap2010:WorkflowViewState.IdRef="Assign_3">
+                    <Assign sap:VirtualizedContainerService.HintSize="899,60" sap2010:WorkflowViewState.IdRef="Assign_3">
                       <Assign.To>
                         <OutArgument x:TypeArguments="x:Int32">[PreviousItem]</OutArgument>
                       </Assign.To>
@@ -466,14 +489,13 @@ PreviousItem.tostring("000")    +
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
             </ui:RepeatNumberOfTimesX>
-            <Sequence DisplayName="Take Final Screenshot" sap:VirtualizedContainerService.HintSize="873,1189" sap2010:WorkflowViewState.IdRef="Sequence_13">
+            <Sequence DisplayName="Take Final Screenshot" sap:VirtualizedContainerService.HintSize="975,1089" sap2010:WorkflowViewState.IdRef="Sequence_13">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <Delay Duration="00:00:05" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="Delay_4" />
-              <Assign sap:VirtualizedContainerService.HintSize="334,60" sap2010:WorkflowViewState.IdRef="Assign_5">
+              <Assign sap:VirtualizedContainerService.HintSize="436,60" sap2010:WorkflowViewState.IdRef="Assign_5">
                 <Assign.To>
                   <OutArgument x:TypeArguments="x:Int32">[MenuItem]</OutArgument>
                 </Assign.To>
@@ -481,7 +503,7 @@ PreviousItem.tostring("000")    +
                   <InArgument x:TypeArguments="x:Int32">[MenuItem + 1]</InArgument>
                 </Assign.Value>
               </Assign>
-              <Assign DisplayName="Set Menu item filename" sap:VirtualizedContainerService.HintSize="334,64" sap2010:WorkflowViewState.IdRef="Assign_4">
+              <Assign DisplayName="Set Menu item filename" sap:VirtualizedContainerService.HintSize="436,64" sap2010:WorkflowViewState.IdRef="Assign_4">
                 <Assign.To>
                   <OutArgument x:TypeArguments="x:String">[MenuFilename]</OutArgument>
                 </Assign.To>
@@ -496,43 +518,15 @@ PreviousItem.tostring("000")    +
 ".png"]</InArgument>
                 </Assign.Value>
               </Assign>
-              <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="LogMessage_6" Level="Info" Message="[&quot;CurrentItem: &quot; + PreviousItem.ToString + &quot; - Take FINAL Menu Screenshot '&quot; + MenuFilename + &quot;'&quot;]" />
-              <ui:Hover DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateHover="{x:Null}" CursorMotionType="[uipath.UIAutomationNext.enums.CursorMotionType.Smooth]" DisplayName="Hover mouse away from menus" sap:VirtualizedContainerService.HintSize="334,106" sap2010:WorkflowViewState.IdRef="Hover_6">
+              <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="436,91" sap2010:WorkflowViewState.IdRef="LogMessage_6" Level="Info" Message="[&quot;CurrentItem: &quot; + PreviousItem.ToString + &quot; - Take FINAL Menu Screenshot '&quot; + MenuFilename + &quot;'&quot;]" />
+              <ui:Hover DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateHover="{x:Null}" CursorMotionType="[uipath.UIAutomationNext.enums.CursorMotionType.Smooth]" DisplayName="Hover mouse away from menus" sap:VirtualizedContainerService.HintSize="436,106" sap2010:WorkflowViewState.IdRef="Hover_7">
                 <ui:Hover.CursorPosition>
-                  <ui:CursorPosition OffsetX="0" OffsetY="0" Position="TopLeft" />
+                  <ui:CursorPosition OffsetX="1600" OffsetY="390" Position="TopLeft" />
                 </ui:Hover.CursorPosition>
                 <ui:Hover.Target>
-                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" Id="5749917b-98c6-46cd-a588-a211f774697a" InformativeScreenshot="cd5bbaf7b1f4368a9f6a44c58556b4d9">
-                    <ui:Target.TimeoutMS>
-                      <InArgument x:TypeArguments="x:Int32" />
-                    </ui:Target.TimeoutMS>
-                    <ui:Target.WaitForReady>
-                      <InArgument x:TypeArguments="ui:WaitForReady" />
-                    </ui:Target.WaitForReady>
-                  </ui:Target>
-                </ui:Hover.Target>
-              </ui:Hover>
-              <ui:Hover DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateHover="{x:Null}" CursorMotionType="[uipath.UIAutomationNext.enums.CursorMotionType.Smooth]" DisplayName="Hover mouse away from menus" sap:VirtualizedContainerService.HintSize="334,106" sap2010:WorkflowViewState.IdRef="Hover_7">
-                <ui:Hover.CursorPosition>
-                  <ui:CursorPosition OffsetX="1600" OffsetY="380" Position="TopLeft" />
-                </ui:Hover.CursorPosition>
-                <ui:Hover.Target>
-                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" Id="5749917b-98c6-46cd-a588-a211f774697a" InformativeScreenshot="cd5bbaf7b1f4368a9f6a44c58556b4d9">
-                    <ui:Target.TimeoutMS>
-                      <InArgument x:TypeArguments="x:Int32" />
-                    </ui:Target.TimeoutMS>
-                    <ui:Target.WaitForReady>
-                      <InArgument x:TypeArguments="ui:WaitForReady" />
-                    </ui:Target.WaitForReady>
-                  </ui:Target>
-                </ui:Hover.Target>
-              </ui:Hover>
-              <Delay Duration="00:00:02" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="Delay_5" />
-              <ui:Highlight HighlightTime="{x:Null}" Color="Gold" sap:VirtualizedContainerService.HintSize="334,68" sap2010:WorkflowViewState.IdRef="Highlight_2">
-                <ui:Highlight.Target>
-                  <ui:Target Selector="{x:Null}" Element="[element]" Id="c7d290c6-d528-43c2-9654-02f4bff7b889">
+                  <ui:Target Element="{x:Null}" Selector="{x:Null}" Id="5749917b-98c6-46cd-a588-a211f774697a" InformativeScreenshot="cd5bbaf7b1f4368a9f6a44c58556b4d9">
                     <ui:Target.ClippingRegion>
-                      <ui:Region Rectangle="990, 426, 602, 881" />
+                      <ui:Region Rectangle="0, 0, 3440, 1440" />
                     </ui:Target.ClippingRegion>
                     <ui:Target.TimeoutMS>
                       <InArgument x:TypeArguments="x:Int32" />
@@ -541,13 +535,39 @@ PreviousItem.tostring("000")    +
                       <InArgument x:TypeArguments="ui:WaitForReady" />
                     </ui:Target.WaitForReady>
                   </ui:Target>
-                </ui:Highlight.Target>
-              </ui:Highlight>
-              <ui:TakeScreenshot WaitBefore="{x:Null}" DisplayName="Final Screenshot 14 rows" sap:VirtualizedContainerService.HintSize="334,106" sap2010:WorkflowViewState.IdRef="TakeScreenshot_4" Screenshot="[screenshot]">
+                </ui:Hover.Target>
+              </ui:Hover>
+              <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="436,238" sap2010:WorkflowViewState.IdRef="CommentOut_3">
+                <ui:CommentOut.Body>
+                  <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="376,160" sap2010:WorkflowViewState.IdRef="Sequence_17">
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                    <ui:Highlight HighlightTime="{x:Null}" Color="Gold" sap:VirtualizedContainerService.HintSize="334,68" sap2010:WorkflowViewState.IdRef="Highlight_2">
+                      <ui:Highlight.Target>
+                        <ui:Target Element="{x:Null}" Selector="{x:Null}" Id="c7d290c6-d528-43c2-9654-02f4bff7b889">
+                          <ui:Target.ClippingRegion>
+                            <ui:Region Rectangle="995, 421, 1200, 883" />
+                          </ui:Target.ClippingRegion>
+                          <ui:Target.TimeoutMS>
+                            <InArgument x:TypeArguments="x:Int32" />
+                          </ui:Target.TimeoutMS>
+                          <ui:Target.WaitForReady>
+                            <InArgument x:TypeArguments="ui:WaitForReady" />
+                          </ui:Target.WaitForReady>
+                        </ui:Target>
+                      </ui:Highlight.Target>
+                    </ui:Highlight>
+                  </Sequence>
+                </ui:CommentOut.Body>
+              </ui:CommentOut>
+              <ui:TakeScreenshot WaitBefore="{x:Null}" DisplayName="Final Screenshot 14 rows" sap:VirtualizedContainerService.HintSize="436,106" sap2010:WorkflowViewState.IdRef="TakeScreenshot_4" Screenshot="[screenshot]">
                 <ui:TakeScreenshot.Target>
-                  <ui:Target Selector="{x:Null}" Element="[element]" Id="51cc8b77-e6a6-4210-9c81-9af70a56d6b3" InformativeScreenshot="e8fb62cfb142072bba521858b5145e6c">
+                  <ui:Target Element="{x:Null}" Selector="{x:Null}" Id="51cc8b77-e6a6-4210-9c81-9af70a56d6b3" InformativeScreenshot="e8fb62cfb142072bba521858b5145e6c">
                     <ui:Target.ClippingRegion>
-                      <ui:Region Rectangle="990, 426, 602, 881" />
+                      <ui:Region Rectangle="995, 421, 1200, 883" />
                     </ui:Target.ClippingRegion>
                     <ui:Target.TimeoutMS>
                       <InArgument x:TypeArguments="x:Int32" />
@@ -564,7 +584,7 @@ PreviousItem.tostring("000")    +
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
               </ui:TakeScreenshot>
-              <ui:SaveImage DisplayName="Save Final Menu Screenshot" FileName="[MenuFolder + MenuFilename]" sap:VirtualizedContainerService.HintSize="334,92" sap2010:WorkflowViewState.IdRef="SaveImage_4" Image="[screenshot]" />
+              <ui:SaveImage DisplayName="Save Final Menu Screenshot" FileName="[MenuFolder + MenuFilename]" sap:VirtualizedContainerService.HintSize="436,92" sap2010:WorkflowViewState.IdRef="SaveImage_4" Image="[screenshot]" />
             </Sequence>
           </Sequence>
         </ActivityAction>
