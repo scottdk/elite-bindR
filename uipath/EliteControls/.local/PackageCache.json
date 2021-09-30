@@ -141,6 +141,16 @@
         "C:\\Users\\scott\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\scott\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4"
+    },
+    {
+      "Package": {
+        "Id": "UiPathTeam.ImageActivities.Activities",
+        "Version": "1.0.0.200"
+      },
+      "Assemblies": [
+        "C:\\Users\\scott\\.nuget\\packages\\uipathteam.imageactivities.activities/1.0.0.200\\lib/ImageActivities.dll"
+      ],
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\uipathteam.imageactivities.activities\\1.0.0.200"
     }
   ],
   "Conflicts": [],
@@ -968,6 +978,11 @@
           "Item2": "[2.7.3, )"
         }
       ]
+    },
+    "UiPathTeam.ImageActivities.Activities": {
+      "Id": "UiPathTeam.ImageActivities.Activities",
+      "Version": "1.0.0.200",
+      "Dependencies": []
     }
   },
   "AllPackages": [
@@ -1651,6 +1666,16 @@
         "C:\\Users\\scott\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\scott\\.nuget\\packages\\uipath.vision\\3.0.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPathTeam.ImageActivities.Activities",
+        "Version": "1.0.0.200"
+      },
+      "Assemblies": [
+        "C:\\Users\\scott\\.nuget\\packages\\uipathteam.imageactivities.activities\\1.0.0.200\\lib\\ImageActivities.dll"
+      ],
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\uipathteam.imageactivities.activities\\1.0.0.200"
     }
   ]
 }

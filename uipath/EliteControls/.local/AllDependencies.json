@@ -1573,6 +1573,15 @@
           "lib/net461/UiPath.Vision.Tesseract.dll": {},
           "lib/net461/UiPath.Vision.dll": {}
         }
+      },
+      "UiPathTeam.ImageActivities.Activities/1.0.0.200": {
+        "type": "package",
+        "compile": {
+          "lib/_._": {}
+        },
+        "runtime": {
+          "lib/ImageActivities.dll": {}
+        }
       }
     },
     ".NETFramework,Version=v4.6.1/win7-x86": {
@@ -3146,6 +3155,15 @@
           "lib/net461/UiPath.Vision.Microsoft.dll": {},
           "lib/net461/UiPath.Vision.Tesseract.dll": {},
           "lib/net461/UiPath.Vision.dll": {}
+        }
+      },
+      "UiPathTeam.ImageActivities.Activities/1.0.0.200": {
+        "type": "package",
+        "compile": {
+          "lib/_._": {}
+        },
+        "runtime": {
+          "lib/ImageActivities.dll": {}
         }
       }
     }
@@ -5006,6 +5024,17 @@
         "uipath.vision.3.0.1.nupkg.sha512",
         "uipath.vision.nuspec"
       ]
+    },
+    "UiPathTeam.ImageActivities.Activities/1.0.0.200": {
+      "sha512": "LhHkKTmYaRwVJjVxtQ3vCmQtn1bz8EWS7/A9nrrlIyUd1uHtS9LrEHbPTTIBj6oUe5OwmRspHkDLesBY9a3zNQ==",
+      "type": "package",
+      "path": "uipathteam.imageactivities.activities/1.0.0.200",
+      "files": [
+        ".nupkg.metadata",
+        "lib/ImageActivities.dll",
+        "uipathteam.imageactivities.activities.1.0.0.200.nupkg.sha512",
+        "uipathteam.imageactivities.activities.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -5014,7 +5043,8 @@
       "UiPath.Excel.Activities >= 2.10.4 <= 2.10.4",
       "UiPath.Mail.Activities >= 1.10.5 <= 1.10.5",
       "UiPath.System.Activities >= 21.4.1 <= 21.4.1",
-      "UiPath.UIAutomation.Activities >= 21.4.4 <= 21.4.4"
+      "UiPath.UIAutomation.Activities >= 21.4.4 <= 21.4.4",
+      "UiPathTeam.ImageActivities.Activities >= 1.0.0.200 <= 1.0.0.200"
     ]
   },
   "packageFolders": {
@@ -5050,6 +5080,11 @@
             "include": "Runtime",
             "target": "Package",
             "version": "[21.4.4, 21.4.4]"
+          },
+          "UiPathTeam.ImageActivities.Activities": {
+            "include": "Runtime",
+            "target": "Package",
+            "version": "[1.0.0.200, 1.0.0.200]"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Users\\scott\\AppData\\Local\\UiPath\\app-21.4.4\\runtime.json"
