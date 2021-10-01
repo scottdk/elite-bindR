@@ -1,0 +1,3 @@
+﻿Brings up the game menu. Note: this
+will not pause the game as it will
+continue to run in the background.

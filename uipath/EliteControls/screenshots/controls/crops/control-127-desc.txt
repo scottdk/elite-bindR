@@ -1,0 +1,5 @@
+﻿The secondary weapons and modules
+trigger. Weapons and modules
+highlighted in blue in the current fire
+group configuration will activate when
+this input is used.

@@ -1,0 +1,3 @@
+﻿YAW AXIS
+Analogue input axis for controlling ship
+yaw (tu rning left or right).

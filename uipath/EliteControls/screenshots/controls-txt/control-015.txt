@@ -1,0 +1,3 @@
+﻿YAW LEFT
+Digital input for yawing the ship left
+(turning left).

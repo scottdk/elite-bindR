@@ -1,0 +1,2 @@
+﻿Causes the mouse’s position to centre
+vertically over time.

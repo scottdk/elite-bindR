@@ -1,0 +1,2 @@
+﻿Digital input for controlling upward
+manoeuvring thrust.

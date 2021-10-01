@@ -1,0 +1,2 @@
+﻿Adjusts the deadzone of the mouse
+movement while in SRV turret mode.

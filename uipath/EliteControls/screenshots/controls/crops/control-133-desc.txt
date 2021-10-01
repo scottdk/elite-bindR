@@ -1,0 +1,10 @@
+﻿Toggle silent running on or off. While
+enabled, the shield system will
+automatically shut down and all heat
+radiators are disabled to ensure the
+ship has a near-zero signature. A low
+signature will prevent others from
+detecting the ship on their sensors.
+However, with no radiators enabled,
+heat will build up within the ship and
+can reach dangerous levels.

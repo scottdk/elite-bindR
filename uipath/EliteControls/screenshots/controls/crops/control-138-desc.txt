@@ -1,0 +1,3 @@
+﻿Controls the sensor zoom level of the
+sensor interface to get a difference view
+of the surrounding area.

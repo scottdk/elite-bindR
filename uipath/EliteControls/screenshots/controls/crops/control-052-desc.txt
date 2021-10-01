@@ -1,0 +1,6 @@
+﻿Analogue input axis for controlling
+lateral (left and right) manoeuvring
+thrust
+
+(Alternate — used when the alternate
+flight controls are active.)

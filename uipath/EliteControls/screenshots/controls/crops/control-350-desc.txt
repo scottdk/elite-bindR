@@ -1,0 +1,2 @@
+﻿Analogue input axis for controlling field
+of View while in third-person mode.

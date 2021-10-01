@@ -1,0 +1,3 @@
+﻿This will engage the FSD to supercruise.
+This can be used to exit supercruise as
+well.

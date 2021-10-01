@@ -1,0 +1,2 @@
+﻿Analogue input for looking in the
+horizontal axis within the cockpit.

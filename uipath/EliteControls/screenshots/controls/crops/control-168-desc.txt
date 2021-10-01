@@ -1,0 +1,5 @@
+﻿For quick text communication. Will
+open up a minimised version of the
+communications panel, switch to the
+chat log tab and focus on the text input
+field. Does not affect the camera.

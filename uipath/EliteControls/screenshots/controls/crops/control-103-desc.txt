@@ -1,0 +1,5 @@
+﻿Uses energy from the engine capacitor
+to overcharge the main drives providing
+a temporary boost in acceleration,
+maximum velocity and
+manoeuvrability.

@@ -1,0 +1,3 @@
+﻿Digital input for pitching the ship up.
+(Landing mode - if no binding is set, the
+default flight bindings are used.)

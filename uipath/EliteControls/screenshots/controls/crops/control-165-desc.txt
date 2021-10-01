@@ -1,0 +1,4 @@
+﻿Directly focuses on the External
+interface panel. This panel includes
+navigation, contract and target
+information.

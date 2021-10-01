@@ -1,0 +1,3 @@
+﻿Analogue input axis for controlling
+lateral (left and right) manoeuvring
+thrust

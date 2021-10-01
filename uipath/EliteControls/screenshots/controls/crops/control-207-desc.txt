@@ -1,0 +1,2 @@
+﻿Adjusts the sensitivity of the headlook
+while using Accumulate.

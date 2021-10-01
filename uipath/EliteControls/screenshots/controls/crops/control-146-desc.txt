@@ -1,0 +1,4 @@
+﻿For Head Mounted Display users, this
+will reset what is considered facing
+forward based on the current
+orientation of the headset.

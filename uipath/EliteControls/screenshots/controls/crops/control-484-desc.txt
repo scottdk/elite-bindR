@@ -1,0 +1,2 @@
+﻿Allow the mouse X/Y-axis to control the
+camera while in third—person mode.

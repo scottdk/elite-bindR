@@ -1,0 +1,3 @@
+﻿Zoom in the lens or Increase the
+current focus distance, depending on
+current mode.

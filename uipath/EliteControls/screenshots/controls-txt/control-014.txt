@@ -1,0 +1,3 @@
+﻿DEADZONE
+Axis inputs below this value will be
+ignored.

@@ -1,0 +1,10 @@
+﻿Sets how to map the Throttle axis to
+speed
+
+Full range uses the throttle range to
+map to the entire speed range (i.e. —
+100% to +100% speed).
+
+Forward only uses the throttle range to
+map just the forward speed range [0 to
++100°/o speed).

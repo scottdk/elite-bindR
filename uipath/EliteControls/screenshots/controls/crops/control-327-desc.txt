@@ -1,0 +1,2 @@
+﻿Opens the Discoveries section of the
+Codex when you make a discovery.

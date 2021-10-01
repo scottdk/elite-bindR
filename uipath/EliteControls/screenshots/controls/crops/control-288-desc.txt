@@ -1,0 +1,2 @@
+﻿Digital input for yawing the turret while
+in SRV turret mode [turning left/right).

@@ -1,0 +1,4 @@
+﻿Directly focuses on the Internal
+interface panel. This panel includes
+ship information, records and
+inventory.

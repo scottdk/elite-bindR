@@ -1,0 +1,2572 @@
+﻿>controls\control-001.png
+PRESETS
+Choose from preconfigured bindings
+﻿>controls\control-002.png
+MOUSE X-AXIS
+Allow the mouse X-axis to control an
+aspect of the flight model.
+﻿>controls\control-003.png
+RELATIVE MOUSE X-AXIS
+Causes the mouse's position to centre
+horizontally over time.
+﻿>controls\control-004.png
+MOUSE Y-AXIS
+Allow the mouse Y-axis to control an
+aspect of the flight model.
+﻿>controls\control-005.png
+RELATIVE MOUSE Y-AXIS
+Causes the mouse's position to centre
+vertically over time.
+﻿>controls\control-006.png
+RESET MOUSE
+Instantly centres the mouse.
+﻿>controls\control-007.png
+MOUSE SENSITIVITY
+Adjusts the sensitivity of the mouse
+movement.
+﻿>controls\control-008.png
+RELATIVE MOUSE RATE
+Adjusts how quickly the mouse centres
+in relative mode.
+﻿>controls\control-009.png
+MOUSE DEADZONE
+Adjusts the deadzone of the mouse
+movement.
+﻿>controls\control-010.png
+MOUSE POWER CURVE
+Makes motion in the centre screen
+more sensitive.
+
+At 1.0, the indicator position is one—to—
+one with its effect.
+﻿>controls\control-011.png
+SHOW MOUSE WIDGET
+Show a widget that indicates what the
+mouse is doing.
+﻿>controls\control-012.png
+SHOW MOUSE WIDGET
+Show a widget that indicates what the
+mouse is doing.
+﻿>controls\control-013.png
+YAW AXIS
+Analogue input axis for controlling ship
+yaw (tu rning left or right).
+﻿>controls\control-014.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-015.png
+YAW LEFT
+Digital input for yawing the ship left
+(turning left).
+﻿>controls\control-016.png
+YAW RIGHT
+Digital input for yawing the ship right
+(turning right).
+﻿>controls\control-017.png
+YAW INTO ROLL
+
+Enable a slight yaw action based on roll
+input
+
+Off no yaw into roll functionality.
+
+On initial roll will apply a slight yaw
+when you begin a roll.
+
+On low roll will apply yaw only on a low
+roll input and roll only on high roll
+input
+﻿>controls\control-018.png
+YAW INTO ROLL
+SENSITIVITY
+
+Adjusts how much of an effect On low
+roll has.
+﻿>controls\control-019.png
+YAW INTO ROLL - FLIGHT
+ASSIST OFF
+
+Enable a slight yaw action based on roll
+input, when flight assist is off:
+
+Default to standard controls use
+whatever option is defined for normal
+flight.
+
+Off no yaw into roll functionality.
+
+On initial roll will apply a slight yaw
+when you begin a roll.
+
+On low roll will apply yaw only on a low
+roll input and roll only on high roll
+input
+﻿>controls\control-020.png
+YAW—ROLL BUTTON
+Hold or toggle to convert all roll input to
+yaw.
+﻿>controls\control-021.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-022.png
+ROLL AXIS
+Analogue input axis for controlling ship
+roll.
+﻿>controls\control-023.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-024.png
+ROLL LEFT
+Digital input for rolling the ship left
+(anticlockwise).
+﻿>controls\control-025.png
+ROLL RIGHT
+Digital input for rolling the ship right
+(clockwise).
+﻿>controls\control-026.png
+PITCH AXIS
+Analogue input axis for controlling ship
+pitch.
+﻿>controls\control-027.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-028.png
+PITCH UP
+Digital input for pitching the ship up.
+﻿>controls\control-029.png
+PITCH DOWN
+Digital input for pitching the ship down.
+﻿>controls\control-030.png
+PITCH DOWN
+Digital input for pitching the ship down.
+﻿>controls\control-031.png
+LATERAL THRUST AXIS
+Analogue input axis for controlling
+lateral (left and right) manoeuvring
+thrust
+﻿>controls\control-032.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-033.png
+THRUST LEFT
+Digital input for controlling left
+manoeuvring thrust.
+﻿>controls\control-034.png
+THRUST RIGHT
+Digital input for controlling right
+manoeuvring thrust.
+﻿>controls\control-035.png
+VERTICAL THRUST AXIS
+Analogue input axis for controlling
+vertical (upward or downward)
+manoeuvring thrust.
+﻿>controls\control-036.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-037.png
+THRUST UP
+Digital input for controlling upward
+manoeuvring thrust.
+﻿>controls\control-038.png
+THRUST DOWN
+Digital input for controlling downward
+manoeuvring thrust.
+﻿>controls\control-039.png
+THRUST FORWARD AND
+BACKWARD AXIS
+
+Analogue input axis for controlling
+fonNard and backward manoeuvring
+thrust
+﻿>controls\control-040.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-041.png
+THRUST FORWARD
+Digital input for controlling forward
+manoeuvring thrust.
+﻿>controls\control-042.png
+THRUST BACKWARD
+Digital input for controlling backward
+manoeuvring thrust.
+﻿>controls\control-043.png
+THRUST BACKWARD
+Digital input for controlling backward
+manoeuvring thrust.
+﻿>controls\control-044.png
+ALTERNATE CONTROLS
+TOGGLE
+
+Toggles the inputs between the regular
+and alternate controls.
+﻿>controls\control-045.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-046.png
+YAW AXIS
+
+Analogue input axis for controlling ship
+yaw (tu rning left or right).
+
+(Alternate — used when the alternate
+flight controls are active.)
+﻿>controls\control-047.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-048.png
+ROLL AXIS
+
+Analogue input axis for controlling ship
+roll.
+
+(Alternate — used when the alternate
+flight controls are active.)
+﻿>controls\control-049.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-050.png
+PITCH AXIS
+
+Analogue input axis for controlling ship
+pitch.
+
+(Alternate — used when the alternate
+flight controls are active.)
+﻿>controls\control-051.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-052.png
+LATERAL THRUST AXIS
+Analogue input axis for controlling
+lateral (left and right) manoeuvring
+thrust
+
+(Alternate — used when the alternate
+flight controls are active.)
+﻿>controls\control-053.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-054.png
+VERTICAL THRUST AXIS
+Analogue input axis for controlling
+vertical (upward or downward)
+manoeuvring thrust.
+
+(Alternate — used when the alternate
+flight controls are active.)
+﻿>controls\control-055.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-056.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-057.png
+THROTTLE AXIS
+
+Analogue input axis for setting the
+desired speed (normal flight) or desired
+thrust (flight assist off).
+﻿>controls\control-058.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-059.png
+THROTTLE AXIS RANGE
+
+Sets how to map the Throttle axis to
+speed
+
+Full range uses the throttle range to
+map to the entire speed range (i.e. —
+100% to +1000/o speed).
+
+Forward only uses the throttle range to
+map just the forward speed range [0 to
++100°/o speed).
+﻿>controls\control-060.png
+FORWARD ONLY THROTTLE
+REVERSE
+
+When Throttle axis range is set to
+Forward only this will allow reverse
+movement when toggled in place of
+forward movement.
+﻿>controls\control-061.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-062.png
+INCREASE THROTTLE
+
+Digital input for increasing the throttle
+or desired speed depending on the
+status of the flight assistance system.
+﻿>controls\control-063.png
+DECREASE THROTTLE
+
+Digital input for decreasing the throttle
+or desired speed depending on the
+status of the flight assistance system.
+﻿>controls\control-064.png
+THROTTLE INCREMENTS
+
+Set what increments the desired speed
+is changed by when using Increase
+throttle and Decrease throttle inputs
+(Continuous will emulate an analogue
+scale).
+﻿>controls\control-065.png
+SET SPEED TO -’lDO%
+
+Directly set speed to 100% reverse. This
+setting can be used with other throttle
+inputs but will be overridden once a
+new throttle input is detected.
+﻿>controls\control-066.png
+SET SPEED TO -75%
+
+Directly set speed to 75% reverse. This
+setting can be used with other throttle
+inputs but will be overridden once a
+new throttle input is detected.
+﻿>controls\control-067.png
+SET SPEED TC) -50%
+
+Directly set speed to 50% reverse. This
+setting can be used with other throttle
+inputs but will be overridden once a
+new throttle input is detected.
+﻿>controls\control-068.png
+SET SPEED TO 25%
+
+Directly set speed to 25% reverse. This
+setting can be used with other throttle
+inputs but will be overridden once a
+new throttle input is detected.
+﻿>controls\control-069.png
+SET SPEED TO 0%
+
+Directly set speed to zero. This setting
+can be used with other throttle inputs
+but will be overridden once a new
+throttle input is detected.
+﻿>controls\control-070.png
+SET SPEED TC) 25%
+
+Directly set speed to 25% forward. This
+setting can be used with other throttle
+inputs but will be overridden once a
+new throttle input is detected.
+﻿>controls\control-071.png
+SET SPEED TO 50%
+
+Directly set speed to 50% forward. This
+setting can be used with other throttle
+inputs but will be overridden once a
+new throttle input is detected.
+﻿>controls\control-072.png
+SET SPEED TC) 75%
+
+Directly set speed to 75% forward. This
+setting can be used with other throttle
+inputs but will be overridden once a
+new throttle input is detected.
+﻿>controls\control-073.png
+SET SPEED TO 100%
+
+Directly set speed to 100% forward. This
+setting can be used with other throttle
+inputs but will be overridden once a
+new throttle input is detected.
+﻿>controls\control-074.png
+SET SPEED TO 100%
+
+Directly set speed to 100% forward. This
+setting can be used with other throttle
+inputs but will be overridden once a
+new throttle input is detected.
+﻿>controls\control-075.png
+YAW AXIS
+
+Analogue input axis for controlling ship
+yaw (turning left or right).
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-076.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-077.png
+YAW LEFT
+
+Digital input for yawing the ship left
+(turning left).
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-078.png
+YAW RIGHT
+
+Digital input for yawing the ship right
+(turning right).
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-079.png
+YAW INTO ROLL
+
+Enable a slight yaw action based on roll
+input
+
+Default to standard controls use
+whatever option is defined for normal
+flight.
+
+Off no yaw into roll functionality.
+
+On initial roll will apply a slight yaw
+when you begin a roll.
+
+On low roll will apply yaw only on a low
+roll input and roll only on high roll
+input
+﻿>controls\control-080.png
+PITCH AXIS
+
+Analogue input axis for controlling ship
+pitch.
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-081.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-082.png
+PITCH up
+
+Digital input for pitching the ship up.
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-083.png
+PITCH DOWN
+
+Digital input for pitching the ship down.
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-084.png
+ROLL AXIS
+
+Analogue input axis for controlling ship
+roll.
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-085.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-086.png
+ROLL LEFT
+
+Digital input for rolling the ship left
+(anticlockwise).
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-087.png
+ROLL RIGHT
+
+Digital input for rolling the ship right
+(clockwise).
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-088.png
+LATERAL THRUST AXIS
+Analogue input axis for controlling
+lateral (left and right) manoeuvring
+thrust
+
+(Landing mode — if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-089.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-090.png
+THRUST LEFT
+
+Digital input for controlling left
+manoeuvring thrust.
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-091.png
+THRUST RIGHT
+
+Digital input for controlling right
+manoeuvring thrust.
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-092.png
+VERTICAL THRUST AXIS
+Analogue input axis for controlling
+vertical (upward or downward)
+manoeuvring thrust.
+
+(Landing mode — if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-093.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-094.png
+THRUST UP
+
+Digital input for controlling upward
+manoeuvring thrust.
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-095.png
+THRUST DOWN
+
+Digital input for controlling downward
+manoeuvring thrust.
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-096.png
+THRUST FORWARD AND
+BACKWARD AXIS
+
+Analogue input axis for controlling
+fonNard and backward manoeuvring
+thrust
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-097.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-098.png
+THRUST FORWARD
+
+Digital input for controlling forward
+manoeuvring thrust.
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-099.png
+THRUST BACKWARD
+
+Digital input for controlling backward
+manoeuvring thrust.
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-100.png
+THRUST BACKWARD
+
+Digital input for controlling backward
+manoeuvring thrust.
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)
+﻿>controls\control-101.png
+TOGGLE FLIGHT ASSIST
+
+When used, will disable the flight
+assistance system responsible for
+countering thrust and ensuring the ship
+travels at the desired speed in the
+ship's current direction. When disabled,
+the pilot will need to counter any thrust
+(both linear and angular) to achieve the
+desired facing and velocity.
+﻿>controls\control-102.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-103.png
+ENGINE BOOST
+
+Uses energy from the engine capacitor
+to overcharge the main drives providing
+a temporary boost in acceleration,
+maximum velocity and
+manoeuvrability.
+﻿>controls\control-104.png
+TOGGLE FRAME SHIFT
+
+DRIVE
+
+This will engage the FSD to either
+hyperspace jump to another system if it
+has been target locked, or supercruise
+ifthere is no target or a current system
+target is locked instead. While
+supercruising, it will exit to normal
+space as long as another star system
+hasn't been targeted in the meantime,
+in which case it will hyperspace jump to
+that star system.
+﻿>controls\control-105.png
+SUPERCRUISE
+
+This will engage the F80 to supereruise.
+This can be used to exit supercruise as
+well.
+﻿>controls\control-106.png
+HYPERSPACE JUMP
+
+This will engage the F80 to perform a
+hyperspace jump to the currently
+targeted system or follow a scanned
+high energy wake.
+﻿>controls\control-107.png
+ROTATIONAL CORRECTION
+Toggles rotational correction on or off
+(used within rotating structures to aid
+navigation within them).
+﻿>controls\control-108.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-109.png
+TOGGLE ORBIT LINES
+
+This will draw lines along the orbital
+paths of all nearby planets when in
+supercruise mode.
+﻿>controls\control-110.png
+TOGGLE ORBIT LINES
+
+This will draw lines along the orbital
+paths of all nearby planets when in
+supercruise mode.
+﻿>controls\control-111.png
+SELECT TARGET AHEAD
+Selects the highlighted target on the
+HUD.
+﻿>controls\control-112.png
+CYCLE NEXT TARGET
+Cycles forwards through the list of
+known contacts.
+﻿>controls\control-113.png
+CYCLE PREVIOUS SHIP
+Cycles backwards through the list of
+known contacts.
+﻿>controls\control-114.png
+SELECT HIGHEST THREAT
+Selects the target of highest threat as
+determined by the following:
+Incoming missiles locked onto you.
+Ships that have hit you in the last few
+seconds.
+
+Ships that have fired at you in the last
+few seconds.
+
+Hostile ships with weapons deployed.
+Hostile ships.
+﻿>controls\control-115.png
+CYCLE NEXT HOSTILE
+TARGET
+
+Cycles forward through the list of
+known hostile contacts.
+﻿>controls\control-116.png
+CYCLE PREVIOUS HOSTILE
+SHIP
+
+Cycles backward through the list of
+known hostile contacts.
+﻿>controls\control-117.png
+SELECT WINGMAN ’l
+Selects the first ship in your current
+wing.
+﻿>controls\control-118.png
+SELECT WINGMAN 2
+Selects the second ship in your current
+wing.
+﻿>controls\control-119.png
+SELECT WINGMAN 3
+Selects the third ship in your current
+wing.
+﻿>controls\control-120.png
+SELECT WINGMAN'S
+TARGET
+
+After selecting a ship in your wing, this
+control will select that ship's current
+target.
+﻿>controls\control-121.png
+WING MAN NAV—LOCK
+
+Slave your frame shift drive to the
+selected wingman, enabling automatic
+supercruise and hyperspacejumps
+when within nav-lock range.
+﻿>controls\control-122.png
+CYCLE NEXT SUBSYSTEM
+Cycles forward through the ta rget's
+current subsystems.
+﻿>controls\control-123.png
+CYCLE PREVIOUS
+SUBSYSTEM
+
+Cycles backward through the target's
+current subsystems.
+﻿>controls\control-124.png
+TARGET NEXT SYSTEM IN
+ROUTE
+
+Target the next system in a planned
+route, if you have one plotted.
+﻿>controls\control-125.png
+TARGET NEXT SYSTEM IN
+ROUTE
+
+Target the next system in a planned
+route, if you have one plotted.
+﻿>controls\control-126.png
+PRIMARY FIRE
+
+The primary weapons and modules
+trigger. Weapons and modules
+highlighted in orange in the current fire
+group configuration will activate when
+this input is used.
+﻿>controls\control-127.png
+SECONDARY FIRE
+
+The secondary weapons and modules
+trigger. Weapons and modules
+highlighted in blue in the current fire
+group configuration will activate when
+this input is used.
+﻿>controls\control-128.png
+CYCLE NEXT FIRE GROUP
+Cycles the current fire group forward
+based on the fire group configuration
+interface.
+﻿>controls\control-129.png
+CYCLE PREVIOUS FIRE
+GROUP
+
+Cycles the current fire group backward
+based on the fire group configuration
+interface.
+﻿>controls\control-130.png
+DEPLOY HARDPOINTS
+Dedicated input for deploying and
+retracting the ship's hard point systems.
+﻿>controls\control-131.png
+FIRING DEPLOYS
+HARDPOINTS
+
+If hardpoints are not deployed, Primary
+fire and Secondary fire will deploy
+them.
+﻿>controls\control-132.png
+FIRING DEPLOYS
+HARDPOINTS
+
+If hardpoints are not deployed, Primary
+fire and Secondary fire will deploy
+them.
+﻿>controls\control-133.png
+SILENT RUNNING
+
+Toggle silent running on or off. While
+enabled, the shield system will
+automatically shut down and all heat
+radiators are disabled to ensure the
+ship has a near-zero signature. A low
+signature will prevent others from
+detecting the ship on their sensors.
+However, with no radiators enabled,
+heat will build up within the ship and
+can reach dangerous levels.
+﻿>controls\control-134.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-135.png
+DEPLOY HEATSINK
+
+A dedicated input for deploying a single
+available heatsink provided there is a
+heatsink launcher module installed and
+powered. There is no need to have the
+heatsink launcher bound to the current
+fire group to enable this functionality.
+﻿>controls\control-136.png
+DEPLOY HEATSINK
+
+A dedicated input for deploying a single
+available heatsink provided there is a
+heatsink launcher module installed and
+powered. There is no need to have the
+heatsink launcher bound to the current
+fire group to enable this functionality.
+﻿>controls\control-137.png
+SHIP LIGHTS
+Toggles the ship's headlights on or off.
+﻿>controls\control-138.png
+SENSOR ZOOM AXIS
+
+Controls the sensor zoom level of the
+sensor interface to get a difference view
+of the surrounding area.
+﻿>controls\control-139.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-140.png
+INCREASE SENSOR ZOOM
+Increases the zoom level of the sensor
+interface to get a wider view of the
+surrounding area.
+﻿>controls\control-141.png
+DECREASE SENSOR ZOOM
+Decreases the zoom level of the sensor
+interface to get a more focused View of
+the surrounding area.
+﻿>controls\control-142.png
+DIVERT POWER TO ENGINES
+Diverts power from the power
+distributor to the engine system.
+Diverting power to engines results in
+higher top speeds and manoeuvring
+along with increasing the recharge rate
+on the engine capacitor (used for
+boosflngl
+﻿>controls\control-143.png
+DIVERT POWER TO
+WEAPONS
+
+Diverts power from the power
+distributor to the weapon cooling
+system. Diverting power to weapons
+increases the recharge rate of the
+weapon cooling capacitor, allowing the
+weapons to fire for longer before
+overheating shuts them down.
+﻿>controls\control-144.png
+DIVERT POWER TO
+SYSTEMS
+
+Diverts power from the power
+distributor to ship systems. Diverting
+power to systems increases the
+resistive properties of all active shields
+and increases the recharge rate of the
+system capacitor (used for recharging
+shields and using other modules).
+﻿>controls\control-145.png
+BALANCE POWER
+DISTRIBUTION
+
+Resets the current power distribution so
+that each system gets an equal amount
+of power.
+﻿>controls\control-146.png
+RESET HMD ORIENTATION
+For Head Mounted Display users, this
+will reset what is considered facing
+forward based on the current
+orientation of the headset.
+﻿>controls\control-147.png
+CARGO SCOOP
+
+Toggles the deployment of the ship's
+cargo scoop (if available). Once
+deployed, any cargo canisters targeted
+will result in a cargo scoop widget being
+displayed on the cockpit GUI for aiding
+scooping.
+﻿>controls\control-148.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-149.png
+JETTISON ALL CARGO
+Jettisons all cargo currently onboard
+the ship.
+﻿>controls\control-150.png
+LANDING GEAR
+
+Toggles the landing gear up for use
+while docking. While deployed, the flight
+controls change to that of the landing—
+specific controls where set. This allows
+pilots to control their ship differently
+when docking if desired.
+﻿>controls\control-151.png
+MICROPHONE MUTE
+Mutes your microphone.
+﻿>controls\control-152.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-153.png
+MUTE BUTTON MODE
+Sets the mode of the Mute button.
+﻿>controls\control-154.png
+MICROPHONE STATE MODE
+[ooo]
+
+Controls how the Microphone mute
+binding functions in CQC.
+﻿>controls\control-155.png
+USE SHIELD CELL
+
+A dedicated input for using a single
+available shield cell provided there is a
+shield bank module installed and
+powered. There is no need to have the
+shield cell bank bound to the current
+fire group to enable this functionality.
+Shield cells provide a significant
+recharge to all active shields.
+﻿>controls\control-156.png
+USE CHAFF LAUNCHER
+
+Releases a cloud of sensor-distorting
+chaff that confuses gimbal and turret
+weapon tracking for a period of time.
+﻿>controls\control-157.png
+CHARGE ECM
+Charge the first inactive ECM.
+﻿>controls\control-158.png
+ENABLE CONTEXT MENU
+Allow some buttons to open a menu of
+multiple sub-control bindings when
+held.
+
+Disabling this option could cause
+conflicts between the existing bindings
+which will need to be manually
+resolved.
+﻿>controls\control-159.png
+WEAPON COLOUR
+Toggles weapon colour customisation.
+﻿>controls\control-160.png
+ENGINE COLOUR
+Toggles engine colour customisation.
+﻿>controls\control-161.png
+NIGHT VISION
+Toggles the ship's night vision mode on
+or off.
+﻿>controls\control-162.png
+NIGHT VISION
+Toggles the ship's night vision mode on
+orofi.
+﻿>controls\control-163.png
+Ul FOCUS
+
+This button is used to navigate the
+cockpit UI and open the External panel,
+Comms panel 8 Internal panel, but its
+specific function depends on the UI
+focus mode setting.
+﻿>controls\control-164.png
+Ul FOCUS MODE
+
+Direction: Hold the UI focus button to
+enter focus mode, then use the
+directions Ul panel left, Ul panel up or
+Ul panel right to select between the
+different cockpit panels. When focused
+on a panel press Ul focus or Ul Back to
+return to the default cockpit View.
+Cycle: Press the UI focus button
+repeatedly to focus on each cockpit
+panel in turn. Press Ul Back to return to
+the default cockpit view.
+﻿>controls\control-165.png
+EXTERNAL PANEL
+
+Directly focuses on the External
+interface panel. This panel includes
+navigation, contract and target
+information.
+﻿>controls\control-166.png
+COMMS PANEL
+Open up and focus on the expanded
+communications panel.
+﻿>controls\control-167.png
+AUTO FOCUS ON TEXT
+INPUT FIELD
+
+When this option is enabled the Comms
+panel will automatically select the text
+input field when switching to the Chat
+Logtab.
+﻿>controls\control-168.png
+QUICK COMMS
+
+For quick text communication. Will
+open up a minimised version of the
+communications panel, switch to the
+chat log tab and focus on the text input
+field. Does not affect the camera.
+﻿>controls\control-169.png
+ROLE PANEL
+Directly focuses on the sensor interface
+for closer inspection.
+﻿>controls\control-170.png
+INTERNAL PANEL
+
+Directly focuses on the Internal
+interface panel. This panel includes
+ship information, records and
+inventory.
+﻿>controls\control-171.png
+LOOKING AT EXTERNAL
+PANEL
+
+Choose what happens when headlook is
+used to look at the External panel. Does
+not affect what the panel does when
+accessed via a button press.
+﻿>controls\control-172.png
+LOOKING AT COMMS PANEL
+Choose what happens when headlook is
+used to look at the Comms panel. Does
+not affect what the panel does when
+accessed via a button press.
+﻿>controls\control-173.png
+LOOKING AT ROLE PANEL
+Choose what happens when headlook is
+used to look at the Role panel. Does not
+affect what the panel does when
+accessed via a button press.
+﻿>controls\control-174.png
+LOOKING AT INTERNAL
+PANEL
+
+Choose what happens when headlook is
+used to look at the Internal panel. Does
+not affect what the panel does when
+accessed via a button press.
+﻿>controls\control-175.png
+ENABLE UI CAMERA LOCK
+ON
+
+When this option is enabled the camera
+will turn and lock to the UI panel.
+﻿>controls\control-176.png
+OPEN GALAXY MAP
+Opens and closes the galaxy map.
+﻿>controls\control-177.png
+OPEN SYSTEM MAP
+Opens and closes the system map.
+﻿>controls\control-178.png
+SHOW [:80 SCORE SCREEN
+Show a summary of everyone's scores,
+kills, etc. in a Close Quarter Combat
+match.
+﻿>controls\control-179.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-180.png
+HEADLOOK
+
+Enables the ability to look around and
+out of the cockpit via the dedicated
+inputs (below).
+﻿>controls\control-181.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-182.png
+GAME MENU
+
+Brings up the game menu. Note: this
+will not pause the game as it will
+continue to run in the background.
+﻿>controls\control-183.png
+FRIENDS MENU
+Brings up the friends menu.
+﻿>controls\control-184.png
+OPEN DISCOVERY
+Opens the Discoveries section of the
+Codex when you make a discovery.
+﻿>controls\control-185.png
+SWITCH COCKPIT MODE
+Switches between analysis and combat
+cockpit modes. Each mode will allow
+access to specific modules and
+functionality, which are indicated on a
+per-module basis via the fire group
+brackets.
+﻿>controls\control-186.png
+ENTER FSS MODE
+Button to enter the Full Spectrum
+System Mode.
+﻿>controls\control-187.png
+ENTER FSS MODE
+Button to enter the Full Spectrum
+System Mode.
+﻿>controls\control-188.png
+UI PANEL UP
+Input for interacting with the cockpit
+interfaces (and main game menus).
+﻿>controls\control-189.png
+UI PANEL DOWN
+Input for interacting with the cockpit
+interfaces (and main game menus).
+﻿>controls\control-190.png
+UI PANEL LEFT
+Input for interacting with the cockpit
+interfaces (and main game menus).
+﻿>controls\control-191.png
+UI PANEL RIGHT
+Input for interacting with the cockpit
+interfaces (and main game menus).
+﻿>controls\control-192.png
+UI PANEL SELECT
+Input for interacting with the cockpit
+interfaces (and main game menus).
+﻿>controls\control-193.png
+UI BACK
+Input for interacting with the cockpit
+interfaces (and main game menus).
+﻿>controls\control-194.png
+UI NESTED TOGGLE
+Input for interacting with the main
+game menus.
+﻿>controls\control-195.png
+NEXT PANEL TAB
+
+While focused on a cockpit interface
+(left and right side panels) this will
+select the next tab.
+﻿>controls\control-196.png
+PREVIOUS PANEL TAB
+While focused on a cockpit interface
+(left and right side panels) this will
+select the previous tab.
+﻿>controls\control-197.png
+NEXT PAGE
+While in a fullscreen interface, this will
+select the next page.
+﻿>controls\control-198.png
+PREVIOUS PAGE
+While in a fullscreen interface, this will
+select the previous page.
+﻿>controls\control-199.png
+PREVIOUS PAGE
+While in a fullscreen interface, this will
+select the previous page.
+﻿>controls\control-200.png
+MOUSE HEADLOOK
+Allow the mouse to control headlook
+when headlook is enabled.
+﻿>controls\control-201.png
+MOUSE HEADLOOK INVERT
+Invert the mouse Y-axis during mouse
+headlook.
+﻿>controls\control-202.png
+MOUSE HEADLDOK
+SENSITIVITY
+
+Adjusts the sensitivity of the mouse
+headlook.
+﻿>controls\control-203.png
+HEADLOOK DEFAULT STATE
+Sets headlook to be on by default. You
+can still disable it with Headlook.
+﻿>controls\control-204.png
+HEADLOOK BUTTON
+INCREMENTS
+
+Set what increments the headlook
+angle is changed by when using keys.
+Continuous will emulate an analogue
+scale.
+﻿>controls\control-205.png
+HEADLOOK AXIS MODE
+
+Sets how to handle head movement
+with an Axis:
+
+Accumulate will move the head in the
+direction and speed based on the input
+but will remain fixed in that direction
+once input is stopped.
+
+Direct maps the input to the direction
+with a neutral input representing
+straight ahead and full input resulting
+in a fully rotated view in the direction
+the input corresponds to.
+﻿>controls\control-206.png
+CENTRE WHEN HEADLOOK
+INACTIVE
+
+Centres the headlook orientation when
+the headlook controls are toggled off.
+﻿>controls\control-207.png
+HEADLOOK SENSITIVITY
+Adjusts the sensitivity of the headlook
+while using Accumulate.
+﻿>controls\control-208.png
+HEADLOOK SMOOTHING
+Enables headlook smoothing.
+﻿>controls\control-209.png
+RESET HEADLOOK
+
+Reset the current View to the centre and
+forward (only applicable with
+Accumulate enabled).
+﻿>controls\control-210.png
+LOOK UP
+Digital input for looking up within the
+cockph.
+﻿>controls\control-211.png
+LOOK DOWN
+Digital input for looking down within the
+cockph.
+﻿>controls\control-212.png
+LOOK UP AND DOWN AXIS
+Analogue input for looking in the
+vertical axis within the cockpit.
+﻿>controls\control-213.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-214.png
+LOOK LEFT
+Digital input for looking left within the
+cockph.
+﻿>controls\control-215.png
+LOOK RIGHT
+Digital input for looking right within the
+cockph.
+﻿>controls\control-216.png
+LOOK LEFT AND RIGHT AXIS
+Analogue input for looking in the
+horizontal axis within the cockpit.
+﻿>controls\control-217.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-218.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-219.png
+GALAXY CAM PITCH AXIS
+Controls camera pitch in the galaxy
+map.
+﻿>controls\control-220.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-221.png
+GALAXY CAM PITCH UP
+Controls camera pitch in the galaxy
+map.
+﻿>controls\control-222.png
+GALAXY CAM PITCH DOWN
+Controls camera pitch in the galaxy
+map.
+﻿>controls\control-223.png
+GALAXY CAM YAW AXIS
+Controls camera rotation in the galaxy
+map.
+﻿>controls\control-224.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-225.png
+GALAXY CAM YAW LEFT
+Controls camera rotation in the galaxy
+map.
+﻿>controls\control-226.png
+GALAXY CAM YAW RIGHT
+Controls camera rotation in the galaxy
+map.
+﻿>controls\control-227.png
+GALAXY CAM TRANSLATE Y-
+AXIS
+
+Controls camera panning in the galaxy
+map.
+﻿>controls\control-228.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-229.png
+GALAXY CAM TRANSLATE
+FORWARD
+
+Controls camera panning in the galaxy
+map.
+﻿>controls\control-230.png
+GALAXY CAM TRANSLATE
+BACKWARD
+
+Controls camera panning in the galaxy
+map.
+﻿>controls\control-231.png
+GALAXY CAM TRANSLATE X-
+AXIS
+
+Controls camera panning in the galaxy
+map.
+﻿>controls\control-232.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-233.png
+GALAXY CAM TRANSLATE
+LEFT
+
+Controls camera panning in the galaxy
+map.
+﻿>controls\control-234.png
+GALAXY CAM TRANSLATE
+RIGHT
+
+Controls camera panning in the galaxy
+map.
+﻿>controls\control-235.png
+GALAXY CAM TRANSLATE Z-
+AXIS
+
+Controls camera panning in the galaxy
+map.
+﻿>controls\control-236.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-237.png
+GALAXY CAM TRANSLATE
+UP
+
+Controls camera panning in the galaxy
+map.
+﻿>controls\control-238.png
+GALAXY CAM TRANSLATE
+DOWN
+
+Controls camera panning in the galaxy
+map.
+﻿>controls\control-239.png
+GALAXY CAM ZOOM AXIS
+Controls camera zoom in the galaxy
+map.
+﻿>controls\control-240.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-241.png
+GALAXY CAM ZOOM IN
+Controls camera zoom in the galaxy
+map.
+﻿>controls\control-242.png
+GALAXY CAM ZOOM OUT
+Controls camera zoom in the galaxy
+map.
+﻿>controls\control-243.png
+GALAXY CAM SET Y-AXIS TO
+Z-AXIS
+
+Sets the Y—axis to function as the Z
+translation axis.
+﻿>controls\control-244.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-245.png
+GALAXY CAM SELECT
+CURRENT SYSTEM
+
+Moves the galaxy map camera back to
+the system you are currently in.
+﻿>controls\control-246.png
+GALAXY CAM SELECT
+CURRENT SYSTEM
+
+Moves the galaxy map camera back to
+the system you are currently in.
+﻿>controls\control-247.png
+DRIVE ASSIST
+Toggle Drive Assist on/off.
+﻿>controls\control-248.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-249.png
+DRIVE ASSIST DEFAULT
+Sets Drive Assist to on or off by default
+after deploying SRV.
+﻿>controls\control-250.png
+SRV STEERING MOUSE X-
+AXIS
+
+Allow the mouse X-axis to control the
+steering of the SRV.
+﻿>controls\control-251.png
+RELATIVE MOUSE X-AXIS
+STEER
+
+Causes the mouse's position to centre
+horizontally over time.
+﻿>controls\control-252.png
+SRV ROLLING MOUSE X-
+AXIS
+
+Allow the mouse X—axis to control the
+rolling of the SRV.
+﻿>controls\control-253.png
+RELATIVE MOUSE X-AXIS
+ROLL
+
+Causes the mouse's position to centre
+horizontally over time.
+﻿>controls\control-254.png
+SRV PITCH MOUSE Y-AXIS
+Allow the mouse Y-axis to control the
+pitch of the SRV.
+﻿>controls\control-255.png
+RELATIVE MOUSE Y-AXIS
+PITCH
+
+Causes the mouse's position to centre
+vertically over time.
+﻿>controls\control-256.png
+STEERING AXIS
+Axis steering for SRV.
+﻿>controls\control-257.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-258.png
+STEERING LEFT BUTTON
+Button for steering left in SRV.
+﻿>controls\control-259.png
+STEERING RIGHT BUTTON
+Button for steering right in SRV.
+﻿>controls\control-260.png
+ROLL AXIS
+Axis rolling forthe SRV.
+﻿>controls\control-261.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-262.png
+ROLL LEFT BUTTON
+Button for rolling left in the SRV.
+﻿>controls\control-263.png
+ROLL RIGHT BUTTON
+Button for rolling right in the SRV.
+﻿>controls\control-264.png
+PITCH AXIS
+Pitch axis control when airborne.
+﻿>controls\control-265.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-266.png
+PITCH UP BUTTON
+Pitch Up Button use when airborne.
+﻿>controls\control-267.png
+PITCH DOWN BUTTON
+Pitch Down Button use when airborne.
+﻿>controls\control-268.png
+VERTICAL THRUSTERS
+Provides temporary lift.
+﻿>controls\control-269.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-270.png
+SRV PRIMARY FIRE
+SRV Primary Fire.
+﻿>controls\control-271.png
+SRV SECONDARY FIRE
+SRV Secondary Fire.
+﻿>controls\control-272.png
+HANDBRAKE
+Apply Handbrake.
+﻿>controls\control-273.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-274.png
+HEADLIGHTS
+Turn Headlights On/Off.
+﻿>controls\control-275.png
+TOGGLE SRV TURRET
+Toggle SRV Turret.
+﻿>controls\control-276.png
+CYCLE NEXT FIRE GROUP
+Cycles the current fire group forward
+based on the fire group configuration
+interface.
+﻿>controls\control-277.png
+CYCLE PREVIOUS FIRE
+GROUP
+
+Cycles the current fire group backward
+based on the fire group configuration
+interface.
+﻿>controls\control-278.png
+CYCLE PREVIOUS FIRE
+GROUP
+
+Cycles the current fire group backward
+based on the fire group configuration
+interface.
+﻿>controls\control-279.png
+SELECT TARGET AHEAD
+Selects the highlighted target on the
+HUD.
+﻿>controls\control-280.png
+SELECT TARGET AHEAD
+Selects the highlighted target on the
+HUD.
+﻿>controls\control-281.png
+TURRET MOUSE X-AXIS
+Allow the mouse X/Y-axis to control the
+turret while in SRV turret mode.
+﻿>controls\control-282.png
+TURRET RELATIVE MOUSE
+X-AXIS
+
+Causes the mouse's position to centre
+horizontally over time.
+﻿>controls\control-283.png
+TURRET MOUSE Y-AXIS
+Allow the mouse X/Y-axis to control the
+turret while in SRV turret mode.
+﻿>controls\control-284.png
+TURRET RELATIVE MOUSE
+Y-AXIS
+
+Causes the mouse's position to centre
+vertically over time.
+﻿>controls\control-285.png
+SRV TURRET YAW AXIS
+Analogue input axis for controlling yaw
+while in SRV turret mode (turning left or
+right).
+﻿>controls\control-286.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-287.png
+SRV TURRET YAW LEFT
+Digital input for yawing the turret while
+in SRV turret mode (turning left/right).
+﻿>controls\control-288.png
+SRV TURRET YAW RIGHT
+Digital input for yawing the turret while
+in SRV turret mode (turning left/right).
+﻿>controls\control-289.png
+SRV TURRET PITCH AXIS
+Analogue input for pitching the turret
+up/down while in SRV turret mode.
+﻿>controls\control-290.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-291.png
+SRV TURRET PITCH UP
+Digital input for pitching the turret
+up/down while in SRV turret mode.
+﻿>controls\control-292.png
+SRV TURRET PITCH DOWN
+Digital input for pitching the turret
+up/down while in SRV turret mode.
+﻿>controls\control-293.png
+SRV TURRET MOUSE
+SENSITIVITY
+
+Mouse sensitivity while in SRV turret
+mode.
+﻿>controls\control-294.png
+SRV TURRET MOUSE
+DEADZONE
+
+Adjusts the deaclzone of the mouse
+movement while in SRV turret mode.
+﻿>controls\control-295.png
+SRV TURRET MOUSE
+POWER CURVE
+
+Makes motion in the centre screen
+more sensitive while in SRV turret
+mode.
+
+At 1.0, the indicator position is one-to-
+one with its effect.
+﻿>controls\control-296.png
+SRV TURRET MOUSE
+POWER CURVE
+
+Makes motion in the centre screen
+more sensitive while in SRV turret
+mode.
+
+At 1.0, the indicator position is one-to-
+one with its effect.
+﻿>controls\control-297.png
+DRIVE SPEED AXIS
+Drive speed axis for the SRV.
+﻿>controls\control-298.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-299.png
+THROTTLE AXIS RANGE
+
+Sets how to map the Throttle axis to
+speed
+
+Full range uses the throttle range to
+map to the entire speed range (i.e. —
+100% to +1000/o speed).
+
+Forward only uses the throttle range to
+map just the forward speed range [0 to
++100°/o speed).
+﻿>controls\control-300.png
+FORWARD ONLY THROTTLE
+REVERSE
+
+When Throttle axis range is set to
+Forward only this will allow reverse
+movement when toggled in place of
+forward movement.
+﻿>controls\control-301.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-302.png
+SRV THROTTLE
+INCREMENTS
+
+Set what increments the desired speed
+is changed by in drive assist when
+using Accelerate Button and Decelerate
+Button inputs (Continuous will emulate
+an analogue scale).
+﻿>controls\control-303.png
+ACCELERATE BUTTON
+Acceleration button for SRV.
+﻿>controls\control-304.png
+DECELERATE BUTTON
+Deceleration button for SRV. This also
+acts as acceleration while reversing.
+﻿>controls\control-305.png
+ACCELERATE AXIS
+Acceleration axis for SRV.
+﻿>controls\control-306.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-307.png
+DECELERATE AXIS
+Deceleration axis for SRV. This also acts
+as acceleration while reversing.
+﻿>controls\control-308.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-309.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-310.png
+DIVERT POWER TO ENGINES
+Diverts power from the power
+distributor to the engine system.
+Diverting power to engines results in
+higher top speeds and manoeuvring
+along with increasing the recharge rate
+on the engine capacitor (used for
+boosfingl
+﻿>controls\control-311.png
+DIVERT POWER TO
+WEAPONS
+
+Diverts power from the power
+distributor to the weapon cooling
+system. Diverting power to weapons
+increases the recharge rate of the
+weapon cooling capacitor, allowing the
+weapons to fire for longer before
+overheating shuts them down.
+﻿>controls\control-312.png
+DIVERT POWER TO
+SYSTEMS
+
+Diverts power from the power
+distributor to SRV systems. Diverting
+power to systems increases the
+resistive properties of all active shields
+and increases the recharge rate of the
+system capacitor (used for recharging
+shields and using other modules).
+﻿>controls\control-313.png
+BALANCE POWER
+DISTRIBUTION
+
+Resets the current power distribution so
+that each system gets an equal amount
+of power.
+﻿>controls\control-314.png
+CARGO SOOOP
+
+Toggles the deployment of the SRV's
+cargo scoop (if available). Once
+deployed, any cargo canisters targeted
+will result in a cargo scoop widget being
+displayed on the cockpit GUI for aiding
+scooping.
+﻿>controls\control-315.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-316.png
+JETTISON ALL CARGO
+Jettisons all cargo currently onboard
+the SRV.
+﻿>controls\control-317.png
+RECALL/DISMISS SHIP
+Recalls or Dismisses your ship while in
+an SRV.
+﻿>controls\control-318.png
+RECALL/DISMISS SHIP
+Recalls or Dismisses your ship while in
+an SRV.
+﻿>controls\control-319.png
+Ul FOCUS
+
+This button is used to navigate the
+cockpit UI and open the External panel,
+Comms panel 8 Internal panel, but its
+specific function depends on the UI
+focus mode setting.
+﻿>controls\control-320.png
+EXTERNAL PANEL
+Directly focuses on the External panel
+interface.
+﻿>controls\control-321.png
+COMMS PANEL
+Open up and focus on the expanded
+communications panel.
+﻿>controls\control-322.png
+QUICK COMMS
+
+For quick text communication. Will
+open up a minimised version of the
+communications panel, switch to the
+chat log tab and focus on the text input
+field. Does not affect the camera.
+﻿>controls\control-323.png
+ROLE PANEL
+Directly focuses on the sensor interface
+for closer inspection.
+﻿>controls\control-324.png
+INTERNAL PANEL
+Directly focuses on the right side panel
+interface (ship systems information).
+﻿>controls\control-325.png
+OPEN GALAXY MAP
+Opens and closes the galaxy map.
+﻿>controls\control-326.png
+OPEN SYSTEM MAP
+Opens and closes the system map.
+﻿>controls\control-327.png
+OPEN DISCOVERY
+Opens the Discoveries section of the
+Codex when you make a discovery.
+﻿>controls\control-328.png
+SWITCH COCKPIT MODE
+Switches between analysis and combat
+cockpit modes. Each mode will allow
+access to specific modules and
+functionality, which are indicated on a
+per-module basis via the fire group
+brackets.
+﻿>controls\control-329.png
+HEADLOOK
+
+Enables the ability to look around and
+out of the cockpit via the dedicated
+inputs (below).
+﻿>controls\control-330.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-331.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-332.png
+MODE TOGGLE
+Toggle between multi—crew modes.
+﻿>controls\control-333.png
+PRIMARY FIRE
+Primary fire for FireCon.
+﻿>controls\control-334.png
+SECONDARY FIRE
+Secondary fire for FireCon.
+﻿>controls\control-335.png
+PRIMARY UTILITY FIRE
+Primary utility fire for FireCon.
+﻿>controls\control-336.png
+SECONDARY UTILITY FIRE
+Secondary utility fire for FireCon.
+﻿>controls\control-337.png
+MOUSE X-AXIS
+Allow the mouse X/Y-axis to control the
+camera while in third—person mode.
+﻿>controls\control-338.png
+RELATIVE MOUSE X-AXIS
+Causes the mouse's position to centre
+horizontally over time.
+﻿>controls\control-339.png
+MOUSE Y-AXIS
+Allow the mouse X/Y-axis to control the
+camera while in third—person mode.
+﻿>controls\control-340.png
+RELATIVE MOUSE Y-AXIS
+Causes the mouse's position to centre
+vertically over time.
+﻿>controls\control-341.png
+THIRD-PERSON YAW AXIS
+Analogue input axis for controlling yaw
+while in third—person mode (turning left
+ornghU.
+﻿>controls\control-342.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-343.png
+THIRD-PERSON YAW LEFT
+Digital input for yawing the camera
+while in third—person mode (turning
+left/right).
+﻿>controls\control-344.png
+THIRD-PERSON YAW RIGHT
+Digital input for yawing the camera
+while in third—person mode (turning
+left/right).
+﻿>controls\control-345.png
+THIRD-PERSON PITCH AXIS
+Analogue input for pitching the camera
+up/down while in third-person mode.
+﻿>controls\control-346.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-347.png
+THIRD-PERSON PITCH UP
+Digital input for pitching the camera
+up/down while in third-person mode.
+﻿>controls\control-348.png
+THIRD-PERSON PITCH
+DOWN
+
+Digital input for pitching the camera
+up/down while in third—person mode.
+﻿>controls\control-349.png
+MULTI-CREW MOUSE
+SENSITIVITY
+
+Mouse sensitivity when in multi—crew
+third—person view.
+﻿>controls\control-350.png
+THIRD-PERSON FIELD OF
+VIEW AXIS
+
+Analogue input axis for controlling field
+of View while in third-person mode.
+﻿>controls\control-351.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-352.png
+THIRD-PERSON FIELD OF
+VIEW OUT
+
+Digital input for zooming field of view
+out while in third-person mode.
+﻿>controls\control-353.png
+THIRD-PERSON FIELD OF
+VIEW IN
+
+Digital input for zooming field of view in
+while in third—person mode.
+﻿>controls\control-354.png
+CYCLE COCKPIT Ul
+FORWARDS
+Cycle multi—crew cockpit Ul forwards.
+﻿>controls\control-355.png
+CYCLE COCKPIT Ul
+BACKWARDS
+Cycle multi—crew cockpit UI backwards.
+﻿>controls\control-356.png
+CYCLE COCKPIT Ul
+BACKWARDS
+Cycle multi—crew cockpit UI backwards.
+﻿>controls\control-357.png
+RECALL FIGHTER
+
+Orders your fighter to clock, or requests
+to dock with your main ship if piloting a
+fighter.
+﻿>controls\control-358.png
+DEFEND
+Orders your fighter/main ship to behave
+defensively.
+﻿>controls\control-359.png
+ENGAGE AT WILL
+Orders your fighter/main ship to behave
+aggressively.
+﻿>controls\control-360.png
+ATTACK TARGET
+Orders your fighter/main ship to attack
+your current target.
+﻿>controls\control-361.png
+MAINTAIN FORMATION
+Orders your fighter/main ship to hold
+fire.
+﻿>controls\control-362.png
+HOLD POSITION
+Orders your fighter/main ship to hold
+position.
+﻿>controls\control-363.png
+FOLLOW ME
+Orders your fighter/main ship to follow
+you.
+﻿>controls\control-364.png
+OPEN ORDERS
+Open the orders panel.
+﻿>controls\control-365.png
+OPEN ORDERS
+Open the orders panel.
+﻿>controls\control-366.png
+SHIP - TOGGLE CAMERA
+SUITE
+
+Toggles the Camera Suite if it is
+available in the current game mode.
+﻿>controls\control-367.png
+SRV - TOGGLE CAMERA
+SUITE
+
+Toggles the Camera Suite if it is
+available in the current game mode.
+﻿>controls\control-368.png
+PREVIOUS CAMERA
+Scroll to the previous vanity camera.
+﻿>controls\control-369.png
+NEXT CAMERA
+Scroll to the next vanity camera.
+﻿>controls\control-370.png
+ENTER FREE CAMERA
+
+Enter free camera mode from position
+of current camera view. Restricted
+movement is also available for internal
+cameras in this mode.
+﻿>controls\control-371.png
+CAMERA - COCKF’IT FRONT
+Jump To Vanity Camera — Cockpit Front.
+﻿>controls\control-372.png
+CAMERA - COCKPIT BACK
+Jump To Vanity Camera — Cockpit Back.
+﻿>controls\control-373.png
+CAMERA - CMDR 1
+Jump To Vanity Camera — CMDR 1.
+﻿>controls\control-374.png
+CAMERA - CMDR 2
+Jump To Vanity Camera — CMDR 2.
+﻿>controls\control-375.png
+CAMERA - CO-PILOT ’|
+Jump To Vanity Camera — Co-Pilot l.
+﻿>controls\control-376.png
+CAMERA - CO-PILOT 2
+Jump To Vanity Camera — Co-Pilot 2.
+﻿>controls\control-377.png
+CAMERA - FRONT
+Jump To Vanity Camera — Front.
+﻿>controls\control-378.png
+CAMERA - BACK
+Jump To Vanity Camera — Back.
+﻿>controls\control-379.png
+CAMERA - LOW
+Jump To Vanity Camera — Low.
+﻿>controls\control-380.png
+CAMERA - LOW
+Jump To Vanity Camera — Low.
+﻿>controls\control-381.png
+TOGGLE HUD
+Toggle the camera HUD on/off.
+﻿>controls\control-382.png
+INCREASE SPEED
+Increase the speed the free camera
+moves at.
+﻿>controls\control-383.png
+DECREASE SPEED
+Decrease the speed the free camera
+moves at.
+﻿>controls\control-384.png
+FORWARD AXIS
+Move the free camera forward and
+backwards.
+﻿>controls\control-385.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-386.png
+THROTTLE AXIS RANGE
+
+Sets how to map the Throttle axis to
+speed
+
+Full range uses the throttle range to
+map to the entire speed range (Le. -
+100% to +1000/o speed).
+
+Forward only uses the throttle range to
+map just the forward speed range [0 to
++100°/o speed).
+﻿>controls\control-387.png
+FORWARD ONLY THROTTLE
+REVERSE
+
+When Throttle axis range is set to
+Forward only this will allow reverse
+movement when toggled in place of
+forward movement.
+﻿>controls\control-388.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-389.png
+MOVE FORWARD
+Move the free camera forward.
+﻿>controls\control-390.png
+MOVE BACKWARD
+Move the free camera backward.
+﻿>controls\control-391.png
+LATERAL AXIS
+Move the free camera left and right.
+﻿>controls\control-392.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-393.png
+MOVE RIGHT
+Move the free camera right.
+﻿>controls\control-394.png
+MOVE LEFT
+Move the free camera left.
+﻿>controls\control-395.png
+LIFT AXIS
+Move the free camera up and down.
+﻿>controls\control-396.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-397.png
+MOVE UP [ANALOGUE]
+Move the free camera up using an
+analogue input.
+﻿>controls\control-398.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-399.png
+MOVE DOWN [ANALOGUE]
+Move the free camera down using an
+analogue input.
+﻿>controls\control-400.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-401.png
+MOVE UP
+Move the free camera up.
+﻿>controls\control-402.png
+MOVE DOWN
+Move the free camera down.
+﻿>controls\control-403.png
+MOUSE Y-AXIS
+Use mouse to control camera pitch.
+﻿>controls\control-404.png
+MOUSE X-AXIS
+Use mouse to control camera yaw.
+﻿>controls\control-405.png
+PITCH AXIS
+Rotate the camera around its pitch axis.
+﻿>controls\control-406.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-407.png
+FREE CAMERA MOUSE
+SENSITIVITY
+
+The sensitivity of the mouse while
+controlling the free camera.
+﻿>controls\control-408.png
+RELATIVE MOUSE Y-AXIS
+Causes the mouse's position to centre
+horizontally over time.
+﻿>controls\control-409.png
+PITCH UP
+Pitch the camera up.
+﻿>controls\control-410.png
+PITCH DOWN
+Pitch the camera down.
+﻿>controls\control-411.png
+YAW AXIS
+Rotate the camera around its yaw axis.
+﻿>controls\control-412.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-413.png
+RELATIVE MOUSE X-AXIS
+Causes the mouse's position to centre
+horizontally over time.
+﻿>controls\control-414.png
+YAW LEFT
+Rotate the camera left.
+﻿>controls\control-415.png
+YAW RIGHT
+Rotate the camera right.
+﻿>controls\control-416.png
+ROLL AXIS
+Rotate the camera around its roll axis.
+﻿>controls\control-417.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-418.png
+ROLL LEFT
+Roll the camera anticlockwise.
+﻿>controls\control-419.png
+ROLL RIGHT
+Roll the camera clockwise.
+﻿>controls\control-420.png
+STABILISER ON/OFF
+TOGGLE
+
+Toggle between the camera rotating
+with the ship and rotating
+independenfly.
+﻿>controls\control-421.png
+CAMERA / SHIP CONTROLS
+TDGGLE
+
+Toggle between control of the camera
+and ship.
+﻿>controls\control-422.png
+ATTACH / DETACH CAMERA
+Connect the camera to your ship, or
+disconnect the camera from your ship.
+﻿>controls\control-423.png
+EXIT FREE CAMERA
+Exit the free camera and revert back to
+the previous camera position.
+﻿>controls\control-424.png
+ZOOM / BLUR TOGGLE
+Toggle between Zoom and Blur Controls.
+﻿>controls\control-425.png
+INCREASE ZOOM/FOCUS
+Zoom in the lens or Increase the
+current focus distance, depending on
+current mode.
+﻿>controls\control-426.png
+DECREASE ZOOM/FOCUS
+Zoom out the lens or Decrease the
+current focus distance, depending on
+current mode.
+﻿>controls\control-427.png
+DECREASE BLUR
+Decrease the amount of blur.
+﻿>controls\control-428.png
+INCREASE BLUR
+Increase the amount of blur.
+﻿>controls\control-429.png
+INCREASE BLUR
+Increase the amount of blur.
+﻿>controls\control-430.png
+HOLD TO ROTATE
+Hold this button to be able to rotate the
+camera with the mouse.
+﻿>controls\control-431.png
+PITCH AXIS
+Rotate the camera around its pitch axis.
+﻿>controls\control-432.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-433.png
+YAW AXIS
+Rotate the camera around its yaw axis.
+﻿>controls\control-434.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-435.png
+STORE CAMERA ZOOM IN
+Controls camera zoom in the store.
+﻿>controls\control-436.png
+STORE CAMERA ZOOM OUT
+Controls camera zoom in the store.
+﻿>controls\control-437.png
+STORE TOGGLE
+Toggles the store in and out of preview
+mode.
+﻿>controls\control-438.png
+STORE TOGGLE
+Toggles the store in and out of preview
+mode.
+﻿>controls\control-439.png
+UNDO
+Undo changes in Holo-Me.
+﻿>controls\control-440.png
+REDO
+Redo changes in Holo-Me.
+﻿>controls\control-441.png
+TOGGLE MOUSE ROTATION
+Hold button down to use mouse to
+rotate the camera angle in Holo—Me.
+﻿>controls\control-442.png
+ROTATE CAMERA
+Rotate the camera angle in Holo-Me.
+﻿>controls\control-443.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-444.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-445.png
+PLAY / PAUSE
+Plays/pauses the Playlist.
+﻿>controls\control-446.png
+SKIP FORWARD
+Skips to the next Playlist entry.
+﻿>controls\control-447.png
+SKIP BACKWARD
+
+Skips to the last Playlist entry. Returns
+to the start of the current the Playlist
+entry after three seconds.
+﻿>controls\control-448.png
+CLEAR GUEUE
+Clears the Playlist.
+﻿>controls\control-449.png
+CLEAR GUEUE
+Clears the Playlist.
+﻿>controls\control-450.png
+CAMERA PITCH
+Vertical axis for movement of the
+camera.
+﻿>controls\control-451.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-452.png
+CAMERA PITCH INCREASE
+Pitches the camera down.
+﻿>controls\control-453.png
+CAMERA PITCH DECREASE
+Pitches the camera up.
+﻿>controls\control-454.png
+CAMERA YAW
+Horizontal axis for movement of the
+camera.
+﻿>controls\control-455.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-456.png
+CAMERA YAW INCREASE
+Yaws the camera right.
+﻿>controls\control-457.png
+CAMERA YAW DECREASE
+Yaws the camera left.
+﻿>controls\control-458.png
+ZOOM IN TO TARGET
+Zoom into a targeted object.
+﻿>controls\control-459.png
+ZOOM OUT
+Return to the previous zoom level.
+﻿>controls\control-460.png
+STEPPED ZOOM IN
+Once zoomed in, this button zooms in a
+small step.
+﻿>controls\control-461.png
+STEPPED ZOOM OUT
+Once zoomed in, this button zooms out
+a small step.
+﻿>controls\control-462.png
+TUNING
+Axis that controls the tuning when
+listening for radio signals.
+﻿>controls\control-463.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-464.png
+TUNING RIGHT
+Button that increases the tuning.
+﻿>controls\control-465.png
+TUNING LEFT
+Button that decreases the tuning.
+﻿>controls\control-466.png
+ABSOLUTE TUNING
+
+Axis that sets the tuning to a fixed
+position when listening for radio
+signals.
+﻿>controls\control-467.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-468.png
+FSS TUNING SENSITIVITY
+Sensitivity of tuning controls when in
+FSS.
+﻿>controls\control-469.png
+DISCOVERY SCAN
+Trigger the Discovery Scan.
+﻿>controls\control-470.png
+LEAVE FSS
+Leave FSS mode and return to cockpit
+View.
+﻿>controls\control-471.png
+MOUSE X-AXIS
+Allow the mouse X/Y-axis to control the
+camera while in FSS.
+﻿>controls\control-472.png
+RELATIVE MOUSE X-AXIS
+Causes the mouse's position to centre
+horizontally over time.
+﻿>controls\control-473.png
+MOUSE Y-AXIS
+Allow the mouse X/Y-axis to control the
+camera while in FSS.
+﻿>controls\control-474.png
+RELATIVE MOUSE Y-AXIS
+Causes the mouse's position to centre
+vertically over time.
+﻿>controls\control-475.png
+FSS MOUSE SENSITIVITY
+Mouse sensitivity when in FSS.
+﻿>controls\control-476.png
+FSS MOUSE DEADZONE
+Adjusts the deadzone of the mouse
+movement when in FSS.
+﻿>controls\control-477.png
+FSS MOUSE POWER CURVE
+Makes motion in the centre screen
+more sensitive when in FSS.
+
+At 1.0, the indicator position is one—to—
+one with its effect.
+﻿>controls\control-478.png
+TARGET CURRENT SIGNAL
+Targets the current signal when fully
+zoomed in.
+﻿>controls\control-479.png
+SHOW HELP
+Displays a guide to using the FSS.
+﻿>controls\control-480.png
+SHOW HELP
+Displays a guide to using the FSS.
+﻿>controls\control-481.png
+TOGGLE FRONT/BACK VIEW
+Toggles between the front and back
+view of a planet.
+﻿>controls\control-482.png
+BUTTON MODE
+
+Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.
+﻿>controls\control-483.png
+EXIT MODE
+Exits the Detailed Surface Scanner
+mode.
+﻿>controls\control-484.png
+MOUSE X-AXIS
+Allow the mouse X/Y-axis to control the
+camera while in third—person mode.
+﻿>controls\control-485.png
+RELATIVE MOUSE X-AXIS
+Causes the mouse's position to centre
+horizontally over time.
+﻿>controls\control-486.png
+MOUSE Y-AXIS
+Allow the mouse X/Y-axis to control the
+camera while in third—person mode.
+﻿>controls\control-487.png
+RELATIVE MOUSE Y-AXIS
+Causes the mouse's position to centre
+vertically over time.
+﻿>controls\control-488.png
+DSS MOUSE SENSITIVITY
+Mouse sensitivity when in DSS third-
+person View.
+﻿>controls\control-489.png
+THIRD-PERSON YAW AXIS
+Analogue input axis for controlling yaw
+while in third—person mode (turning left
+ornghU.
+﻿>controls\control-490.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-491.png
+THIRD-PERSON YAW LEFT
+Digital input for yawing the camera
+while in third—person mode (turning
+left/right).
+﻿>controls\control-492.png
+THIRD-PERSON YAW RIGHT
+Digital input for yawing the camera
+while in third—person mode (turning
+left/right).
+﻿>controls\control-493.png
+THIRD-PERSON PITCH AXIS
+Analogue input for pitching the camera
+up/down while in third-person mode.
+﻿>controls\control-494.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-495.png
+THIRD-PERSON PITCH UP
+Digital input for pitching the camera
+up/down while in third-person mode.
+﻿>controls\control-496.png
+THIRD-PERSON PITCH
+DOWN
+
+Digital input for pitching the camera
+up/down while in third—person mode.
+﻿>controls\control-497.png
+THIRD-PERSON FIELD OF
+VIEW AXIS
+
+Analogue input axis for controlling field
+of View while in third-person mode.
+﻿>controls\control-498.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+﻿>controls\control-499.png
+THIRD-PERSON FIELD OF
+VIEW OUT
+
+Digital input for zooming field of view
+out while in third-person mode.
+﻿>controls\control-500.png
+THIRD-PERSON FIELD OF
+VIEW IN
+
+Digital input for zooming field of view in
+while in third—person mode.
+﻿>controls\control-501.png
+THIRD-PERSON FIELD OF
+VIEW IN
+
+Digital input for zooming field of view in
+while in third—person mode.
+﻿>controls\control-502.png
+THIRD-PERSON FIELD OF
+VIEW IN
+
+Digital input for zooming field of view in
+while in third—person mode.
+﻿>controls\control-503.png
+THIRD-PERSON FIELD OF
+VIEW IN
+
+Digital input for zooming field of view in
+while in third—person mode.
+﻿>controls\control-504.png
+THIRD-PERSON FIELD OF
+VIEW IN
+
+Digital input for zooming field of View in
+while in third—person mode.
+﻿>*.png
+<Error>
+﻿>*.png
+<Error>

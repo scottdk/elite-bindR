@@ -1,0 +1,3 @@
+﻿Cycles the current fire group forward
+based on the fire group configuration
+interface.

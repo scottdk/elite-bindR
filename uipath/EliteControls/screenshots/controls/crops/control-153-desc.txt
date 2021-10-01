@@ -1,0 +1,1 @@
+﻿Sets the mode of the Mute button.

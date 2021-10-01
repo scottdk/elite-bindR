@@ -1,0 +1,3 @@
+﻿Decide ifthe button needs to be held
+(Hold) or the state toggles (Toggle) with
+each press.

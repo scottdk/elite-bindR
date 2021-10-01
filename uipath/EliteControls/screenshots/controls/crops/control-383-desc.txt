@@ -1,0 +1,2 @@
+﻿Decrease the speed the free camera
+moves at.

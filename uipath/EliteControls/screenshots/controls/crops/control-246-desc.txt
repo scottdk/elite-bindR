@@ -1,0 +1,2 @@
+﻿Moves the galaxy map camera back to
+the system you are currently in.

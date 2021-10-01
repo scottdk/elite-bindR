@@ -1,0 +1,6 @@
+﻿Toggles the landing gear up for use
+while docking. While deployed, the flight
+controls change to that of the landing-
+specific controls where set. This allows
+pilots to control their ship differently
+when docking if desired.

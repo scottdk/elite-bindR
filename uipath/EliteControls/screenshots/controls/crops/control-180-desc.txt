@@ -1,0 +1,3 @@
+﻿Enables the ability to look around and
+out of the cockpit via the dedicated
+inputs (below).

@@ -1,0 +1,1 @@
+FOR %%F IN (controls\*.png) DO Capture2Text\Capture2Text_CLI.exe -i %%F -b -o controls.txt --output-file-append --output-format ">${file}${linebreak}${capture}${linebreak}" >> log.txt

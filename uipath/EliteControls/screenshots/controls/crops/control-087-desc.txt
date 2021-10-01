@@ -1,0 +1,5 @@
+﻿Digital input for rolling the ship right
+(clockwise).
+
+(Landing mode — if no binding is set, the
+default flight bindings are used.)

@@ -1,0 +1,3 @@
+﻿Analogue input axis for controlling yaw
+while in SRV turret mode (turning left or
+right).

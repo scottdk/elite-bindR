@@ -1,0 +1,2 @@
+﻿Mouse sensitivity when in multi-crew
+third-person view.

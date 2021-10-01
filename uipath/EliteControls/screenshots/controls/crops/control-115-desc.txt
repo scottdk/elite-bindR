@@ -1,0 +1,2 @@
+﻿Cycles forward through the list of
+known hostile contacts.

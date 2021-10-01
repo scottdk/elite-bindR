@@ -1,0 +1,8 @@
+﻿When used, will disable the flight
+assistance system responsible for
+countering thrust and ensuring the ship
+travels at the desired speed in the
+ship's current direction. When disabled,
+the pilot will need to counter any thrust
+(both linear and angular) to achieve the
+desired facing and velocity.

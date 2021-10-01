@@ -1,0 +1,4 @@
+﻿Slave your frame shift drive to the
+selected wingman, enabling automatic
+supercruise and hyperspacejumps
+when within nav-Iock range.

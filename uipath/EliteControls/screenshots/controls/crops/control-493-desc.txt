@@ -1,0 +1,2 @@
+﻿Analogue input for pitching the camera
+up/down while in third-person mode.

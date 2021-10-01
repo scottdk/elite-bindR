@@ -1,0 +1,11 @@
+﻿Selects the target of highest threat as
+determined by the following:
+Incoming missiles looked onto you.
+Ships that have hit you in the last few
+seconds.
+
+Ships that have fired at you in the last
+few seconds.
+
+Hostile ships with weapons deployed.
+Hostile ships.

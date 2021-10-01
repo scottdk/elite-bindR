@@ -1,0 +1,2 @@
+﻿Selects the first ship in your current
+wing.

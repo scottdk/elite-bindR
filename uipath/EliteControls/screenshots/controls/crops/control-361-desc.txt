@@ -1,0 +1,2 @@
+﻿Orders your fighter/main ship to hold
+fire.

@@ -1,0 +1,2 @@
+﻿Controls camera pitch in the galaxy
+map.

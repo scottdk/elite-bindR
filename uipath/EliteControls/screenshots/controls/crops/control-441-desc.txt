@@ -1,0 +1,2 @@
+﻿Hold button down to use mouse to
+rotate the camera angle in Holo-Me.

@@ -1,0 +1,7 @@
+﻿Diverts power from the power
+distributor to the weapon cooling
+system. Diverting power to weapons
+increases the recharge rate of the
+weapon cooling capacitor, allowing the
+weapons to fire for longer before
+overheating shuts them down.

@@ -1,0 +1,4 @@
+﻿Choose what happens when headlook is
+used to look at the External panel. Does
+not affect what the panel does when
+accessed via a button press.

@@ -1,0 +1,2 @@
+﻿Centres the headlook orientation when
+the headlook controls are toggled off.

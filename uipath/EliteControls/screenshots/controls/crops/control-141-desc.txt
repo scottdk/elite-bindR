@@ -1,0 +1,3 @@
+﻿Decreases the zoom level of the sensor
+interface to get a more focused View of
+the surrounding area.

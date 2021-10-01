@@ -1,0 +1,1 @@
+﻿Skips to the next Playlist entry.

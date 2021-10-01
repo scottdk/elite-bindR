@@ -1,0 +1,3 @@
+﻿While focused on a cockpit interface
+(left and right side panels) this will
+select the previous tab.

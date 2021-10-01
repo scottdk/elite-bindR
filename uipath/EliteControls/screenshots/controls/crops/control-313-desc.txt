@@ -1,0 +1,3 @@
+﻿Resets the current power distribution so
+that each system gets an equal amount
+of power.

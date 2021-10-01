@@ -1,0 +1,5 @@
+﻿Analogue input axis for controlling ship
+pitch.
+
+(Landing mode — if no binding is set, the
+default flight bindings are used.)

@@ -1,0 +1,2 @@
+﻿RESET MOUSE
+Instantly centres the mouse.

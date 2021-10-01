@@ -1,0 +1,6 @@
+﻿Toggles the deployment of the SRV's
+cargo scoop (if available). Once
+deployed, any cargo canisters targeted
+will result in a cargo scoop widget being
+displayed on the cockpit GUI for aiding
+scooping.

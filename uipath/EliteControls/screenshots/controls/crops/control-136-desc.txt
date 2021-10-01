@@ -1,0 +1,6 @@
+﻿A dedicated input for deploying a single
+available heatsink provided there is a
+heatsink launcher module installed and
+powered. There is no need to have the
+heatsink launcher bound to the current
+fire group to enable this functionality.

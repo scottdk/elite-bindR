@@ -1,0 +1,2 @@
+﻿Controls camera panning in the galaxy
+map.

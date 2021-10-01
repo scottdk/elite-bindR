@@ -1,0 +1,1 @@
+﻿Zoom into a targeted object.

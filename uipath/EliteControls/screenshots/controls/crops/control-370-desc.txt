@@ -1,0 +1,4 @@
+﻿Enter free camera mode from position
+of current camera view. Restricted
+movement is also available for internal
+cameras in this mode.

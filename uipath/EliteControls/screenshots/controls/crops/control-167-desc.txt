@@ -1,0 +1,4 @@
+﻿When this option is enabled the Comms
+panel will automatically select the text
+input field when switching to the Chat
+Logtab.

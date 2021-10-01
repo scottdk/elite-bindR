@@ -1,0 +1,8 @@
+﻿Allow some buttons to open a menu of
+multiple sub—control bindings when
+held.
+
+Disabling this option could cause
+conflicts between the existing bindings
+which will need to be manually
+resolved.

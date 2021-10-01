@@ -1,0 +1,2 @@
+﻿Exits the Detailed Surface Scanner
+mode.

@@ -1,0 +1,2 @@
+﻿Dedicated input for deploying and
+retracting the ship's hard point systems.

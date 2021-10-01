@@ -1,0 +1,2 @@
+﻿Hold this button to be able to rotate the
+camera with the mouse.

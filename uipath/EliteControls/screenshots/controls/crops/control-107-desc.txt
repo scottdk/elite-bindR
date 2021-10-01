@@ -1,0 +1,3 @@
+﻿Toggles rotational correction on or off
+(used within rotating structures to aid
+navigation within them).

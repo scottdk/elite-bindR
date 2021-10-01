@@ -1,0 +1,2 @@
+﻿Jettisons all cargo currently onboard
+the ship.

@@ -1,0 +1,4 @@
+﻿This will engage the FSD to perform a
+hyperspacejump to the currently
+targeted system or follow a scanned
+high energy wake.

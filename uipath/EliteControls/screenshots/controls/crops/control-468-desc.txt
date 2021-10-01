@@ -1,0 +1,2 @@
+﻿Sensitivity of tuning controls when in
+FSS.

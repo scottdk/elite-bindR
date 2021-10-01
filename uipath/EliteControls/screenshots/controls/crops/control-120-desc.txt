@@ -1,0 +1,3 @@
+﻿After selecting a ship in your wing, this
+control will select that ship's current
+target.

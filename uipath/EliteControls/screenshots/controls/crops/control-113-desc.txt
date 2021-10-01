@@ -1,0 +1,2 @@
+﻿Cycles backwards through the list of
+known contacts.

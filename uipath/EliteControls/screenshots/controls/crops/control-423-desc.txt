@@ -1,0 +1,2 @@
+﻿Exit the free camera and revert back to
+the previous camera position.

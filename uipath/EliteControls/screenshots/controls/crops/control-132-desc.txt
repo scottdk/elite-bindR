@@ -1,0 +1,3 @@
+﻿If hardpoints are not deployed, Primary
+fire and Secondary fire will deploy
+them.

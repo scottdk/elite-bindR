@@ -1,0 +1,3 @@
+﻿Toggle between the camera rotating
+with the ship and rotating
+independenfly.

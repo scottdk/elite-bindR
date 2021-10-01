@@ -1,0 +1,2 @@
+﻿Adjusts how much of an effect On low
+roll has.

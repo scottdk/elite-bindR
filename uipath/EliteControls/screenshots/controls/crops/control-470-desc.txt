@@ -1,0 +1,2 @@
+﻿Leave FSS mode and return to cockpit
+view.

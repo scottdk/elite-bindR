@@ -1,0 +1,2 @@
+﻿Toggles the inputs between the regular
+and alternate controls.

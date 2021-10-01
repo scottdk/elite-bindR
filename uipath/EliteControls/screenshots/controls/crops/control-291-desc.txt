@@ -1,0 +1,2 @@
+﻿Digital input for pitching the turret
+up/down while in SRV turret mode.

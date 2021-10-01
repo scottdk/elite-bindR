@@ -1,0 +1,2 @@
+﻿Toggles the Camera Suite if it is
+available in the current game mode.

@@ -1,0 +1,2 @@
+﻿Cycles forwards through the list of
+known contacts.

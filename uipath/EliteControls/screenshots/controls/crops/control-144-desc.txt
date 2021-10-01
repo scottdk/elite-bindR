@@ -1,0 +1,7 @@
+﻿Diverts power from the power
+distributor to ship systems. Diverting
+power to systems increases the
+resistive properties of all active shields
+and increases the recharge rate of the
+system capacitor (used for recharging
+shields and using other modules).

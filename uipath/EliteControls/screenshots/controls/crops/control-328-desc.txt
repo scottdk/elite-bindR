@@ -1,0 +1,6 @@
+﻿Switches between analysis and combat
+cockpit modes. Each mode will allow
+access to specific modules and
+functionality, which are indicated on a
+per-module basis via the fire group
+brackets.

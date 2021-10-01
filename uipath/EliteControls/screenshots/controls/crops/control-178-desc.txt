@@ -1,0 +1,3 @@
+﻿Show a summary of everyone's scores,
+kills, etc. in a Close Quarter Combat
+match.

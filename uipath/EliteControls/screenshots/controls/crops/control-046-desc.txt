@@ -1,0 +1,5 @@
+﻿Analogue input axis for controlling ship
+yaw (turning left or right).
+
+(Alternate — used when the alternate
+flight controls are active.)

@@ -1,0 +1,1 @@
+﻿Controls camera zoom in the store.

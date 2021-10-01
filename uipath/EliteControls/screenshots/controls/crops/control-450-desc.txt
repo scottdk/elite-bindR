@@ -1,0 +1,2 @@
+﻿Vertical axis for movement of the
+camera.

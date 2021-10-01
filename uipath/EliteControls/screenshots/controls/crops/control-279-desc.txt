@@ -1,0 +1,2 @@
+﻿Selects the highlighted target on the
+HUD.

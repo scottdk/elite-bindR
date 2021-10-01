@@ -1,0 +1,2 @@
+﻿While in a fullscreen interface, this will
+select the next page.

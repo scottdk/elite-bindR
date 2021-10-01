@@ -1,0 +1,1 @@
+﻿SET SPEED TO -50°/o

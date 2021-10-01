@@ -1,0 +1,6 @@
+﻿MOUSE POWER CURVE
+Makes motion in the centre screen
+more sensitive.
+
+At 1.0, the indicator position is one—to—
+one with its effect.

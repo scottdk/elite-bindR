@@ -1,0 +1,2 @@
+﻿Button to enter the Full Spectrum
+System Mode.

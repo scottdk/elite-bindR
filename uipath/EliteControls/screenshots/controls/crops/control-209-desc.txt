@@ -1,0 +1,3 @@
+﻿Reset the current view to the centre and
+forward (only applicable with
+Accumulate enabled).

@@ -1,0 +1,2 @@
+﻿Horizontal axis for movement of the
+camera.

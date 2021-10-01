@@ -1,0 +1,2 @@
+﻿Controls how the Microphone mute
+binding functions in CQC.

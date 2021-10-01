@@ -1,0 +1,2 @@
+﻿When this option is enabled the camera
+will turn and lock to the UI panel.

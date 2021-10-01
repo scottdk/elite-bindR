@@ -1,0 +1,5 @@
+﻿Set what increments the desired speed
+is changed by when using Increase
+throttle and Decrease throttle inputs
+(Continuous will emulate an analogue
+scale).

@@ -1,0 +1,108 @@
+>control-001.png
+PRESETS
+Choose from preconfigured bindings
+>control-002.png
+MOUSE X-AXIS
+Allow the mouse X-axis to control an
+aspect of the flight model.
+>control-003.png
+RELATIVE MOUSE X-AXIS
+Causes the mouse's position to centre
+horizontally over time.
+>control-004.png
+MOUSE Y-AXIS
+Allow the mouse Y-axis to control an
+aspect of the flight model.
+>control-005.png
+RELATIVE MOUSE Y-AXIS
+Causes the mouse's position to centre
+vertically over time.
+>control-006.png
+RESET MOUSE
+Instantly centres the mouse.
+>control-007.png
+MOUSE SENSITIVITY
+Adjusts the sensitivity of the mouse
+movement.
+>control-008.png
+RELATIVE MOUSE RATE
+Adjusts how quickly the mouse centres
+in relative mode.
+>control-009.png
+MOUSE DEADZONE
+Adjusts the deadzone of the mouse
+movement.
+>control-010.png
+MOUSE POWER CURVE
+Makes motion in the centre screen
+more sensitive.
+
+At 1.0, the indicator position is one—to—
+one with its effect.
+>control-011.png
+SHOW MOUSE WIDGET
+Show a widget that indicates what the
+mouse is doing.
+>control-012.png
+SHOW MOUSE WIDGET
+Show a widget that indicates what the
+mouse is doing.
+>control-013.png
+YAW AXIS
+Analogue input axis for controlling ship
+yaw (tu rning left or right).
+>control-014.png
+DEADZONE
+Axis inputs below this value will be
+ignored.
+>control-015.png
+YAW LEFT
+Digital input for yawing the ship left
+(turning left).
+>control-016.png
+YAW RIGHT
+Digital input for yawing the ship right
+(turning right).
+>control-017.png
+YAW INTO ROLL
+
+Enable a slight yaw action based on roll
+input
+
+Off no yaw into roll functionality.
+
+On initial roll will apply a slight yaw
+when you begin a roll.
+
+On low roll will apply yaw only on a low
+roll input and roll only on high roll
+input
+>control-018.png
+YAW INTO ROLL
+SENSITIVITY
+
+Adjusts how much of an effect On low
+roll has.
+>control-019.png
+YAW INTO ROLL - FLIGHT
+ASSIST OFF
+
+Enable a slight yaw action based on roll
+input, when flight assist is off:
+
+Default to standard controls use
+whatever option is defined for normal
+flight.
+
+Off no yaw into roll functionality.
+
+On initial roll will apply a slight yaw
+when you begin a roll.
+
+On low roll will apply yaw only on a low
+roll input and roll only on high roll
+input
+>control-020.png
+YAW—ROLL BUTTON
+Hold or toggle to convert all roll input to
+yaw.

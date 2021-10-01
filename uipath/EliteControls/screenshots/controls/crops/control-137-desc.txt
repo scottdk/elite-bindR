@@ -1,0 +1,1 @@
+﻿Toggles the ship's headlights on or off.

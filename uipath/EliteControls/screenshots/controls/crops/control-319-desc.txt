@@ -1,0 +1,5 @@
+﻿This button is used to navigate the
+cockpit UI and open the External panel,
+Comms panel 8 Internal panel, but its
+specific function depends on the UI
+focus mode setting.

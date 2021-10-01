@@ -1,0 +1,2 @@
+﻿Once zoomed in, this button zooms out
+a small step.

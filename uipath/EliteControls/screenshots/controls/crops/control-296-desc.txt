@@ -1,0 +1,6 @@
+﻿Makes motion in the centre screen
+more sensitive while in SRV turret
+mode.
+
+At 1.0, the indicator position is one-to-
+one with its effect.

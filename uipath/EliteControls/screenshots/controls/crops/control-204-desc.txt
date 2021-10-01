@@ -1,0 +1,4 @@
+﻿Set what increments the headlook
+angle is changed by when using keys.
+Continuous will emulate an analogue
+scale.

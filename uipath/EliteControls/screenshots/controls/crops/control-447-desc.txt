@@ -1,0 +1,3 @@
+﻿Skips to the last Playlist entry. Returns
+to the start of the current the Playlist
+entry after three seconds.

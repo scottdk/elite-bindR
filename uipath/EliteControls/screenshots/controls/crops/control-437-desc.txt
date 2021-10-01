@@ -1,0 +1,2 @@
+﻿Toggles the store in and out of preview
+mode.

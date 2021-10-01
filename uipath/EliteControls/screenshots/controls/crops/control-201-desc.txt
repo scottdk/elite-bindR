@@ -1,0 +1,2 @@
+﻿Invert the mouse Y-axis during mouse
+headlook.

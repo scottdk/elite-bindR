@@ -1,0 +1,10 @@
+﻿This will engage the FSD to either
+hyperspacejump to another system if it
+has been target locked, or supercruise
+if there is no target or a current system
+target is locked instead. While
+supercruising, it will exit to normal
+space as long as another star system
+hasn't been targeted in the meantime,
+in which case it will hyperspace jump to
+that star system.

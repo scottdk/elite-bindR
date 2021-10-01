@@ -1,0 +1,1 @@
+﻿Return to the previous zoom level.

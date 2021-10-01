@@ -1,0 +1,2 @@
+﻿The sensitivity of the mouse while
+controlling the free camera.

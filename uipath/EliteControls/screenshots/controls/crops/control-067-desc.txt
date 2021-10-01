@@ -1,0 +1,4 @@
+﻿Directly set speed to 50% reverse. This
+setting can be used with other throttle
+inputs but will be overridden once a
+new throttle input is detected.

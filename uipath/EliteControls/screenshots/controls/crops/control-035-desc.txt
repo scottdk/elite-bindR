@@ -1,0 +1,3 @@
+﻿Analogue input axis for controlling
+vertical (upward or downward)
+manoeuvring thrust.

@@ -1,0 +1,2 @@
+﻿Allow the mouse X/Y-axis to control the
+turret while in SRV turret mode.

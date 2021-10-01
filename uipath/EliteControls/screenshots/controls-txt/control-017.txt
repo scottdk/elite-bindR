@@ -1,0 +1,13 @@
+﻿YAW INTO ROLL
+
+Enable a slight yaw action based on roll
+input
+
+Off no yaw into roll functionality.
+
+On initial roll will apply a slight yaw
+when you begin a roll.
+
+On low roll will apply yaw only on a low
+roll input and roll only on high roll
+input

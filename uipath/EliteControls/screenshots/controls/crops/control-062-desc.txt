@@ -1,0 +1,3 @@
+﻿Digital input for increasing the throttle
+or desired speed depending on the
+status of the flight assistance system.

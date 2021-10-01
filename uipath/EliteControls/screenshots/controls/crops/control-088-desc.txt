@@ -1,0 +1,6 @@
+﻿Analogue input axis for controlling
+lateral (left and right) manoeuvring
+thrust
+
+(Landing mode - if no binding is set, the
+default flight bindings are used.)

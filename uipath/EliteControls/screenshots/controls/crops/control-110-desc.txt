@@ -1,0 +1,3 @@
+﻿This will draw lines along the orbital
+paths of all nearby planets when in
+supercruise mode.

@@ -1,0 +1,5 @@
+﻿The primary weapons and modules
+trigger. Weapons and modules
+highlighted in orange in the current fire
+group configuration will activate when
+this input is used.

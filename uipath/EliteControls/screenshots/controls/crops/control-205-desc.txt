@@ -1,0 +1,13 @@
+﻿Sets how to handle head movement
+with an Axis:
+
+Accumulate will move the head in the
+direction and speed based on the input
+but will remain fixed in that direction
+once input is stopped.
+
+Direct maps the input to the direction
+with a neutral input representing
+straight ahead and full input resulting
+in a fully rotated view in the direction
+the input corresponds to.

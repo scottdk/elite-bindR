@@ -1,0 +1,2 @@
+﻿Move the free camera up using an
+analogue input.

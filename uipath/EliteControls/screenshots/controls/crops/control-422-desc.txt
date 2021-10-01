@@ -1,0 +1,2 @@
+﻿Connect the camera to your ship, or
+disconnect the camera from your ship.

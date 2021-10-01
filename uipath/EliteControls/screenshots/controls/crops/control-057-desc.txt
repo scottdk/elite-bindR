@@ -1,0 +1,3 @@
+﻿Analogue input axis for setting the
+desired speed (normal flight) or desired
+thrust (flight assist off).

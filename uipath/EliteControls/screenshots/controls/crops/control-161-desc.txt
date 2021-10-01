@@ -1,0 +1,2 @@
+﻿Toggles the ship's night vision mode on
+orofi.

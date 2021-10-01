@@ -1,0 +1,1 @@
+﻿Opens and closes the system map.

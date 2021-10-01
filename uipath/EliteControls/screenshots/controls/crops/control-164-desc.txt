@@ -1,0 +1,11 @@
+﻿Direction: Hold the UI focus button to
+enter focus mode, then use the
+directions UI panel left, UI panel up or
+Ul panel right to select between the
+different cockpit panels. When focused
+on a panel press Ul focus or Ul Back to
+return to the default cockpit view.
+Cycle: Press the UI focus button
+repeatedly to focus on each cockpit
+panel in turn. Press Ul Back to return to
+the default cockpit view.

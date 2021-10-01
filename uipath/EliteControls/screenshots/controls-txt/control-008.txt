@@ -1,0 +1,3 @@
+﻿RELATIVE MOUSE RATE
+Adjusts how quickly the mouse centres
+in relative mode.
