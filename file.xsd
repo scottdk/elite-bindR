@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+ <!-- XML Schema Generated from XML Document on Tue Jan 10 2017 14:59:14 GMT+0530 (India Standard Time) -->
+ <!-- with XmlGrid.net Free Online Service http://xmlgrid.net -->
+ <xs:element name="Workbook">
+  <xs:complexType>
+   <xs:sequence>
+    <xs:element name="DocumentProperties">
+     <xs:complexType>
+      <xs:sequence>
+       <xs:element type="xs:string" name="Author"></xs:element>
+       <xs:element type="xs:string" name="LastAuthor"></xs:element>
+       <xs:element type="xs:dateTime" name="Created"></xs:element>
+       <xs:element type="xs:int" name="Version"></xs:element>
+      </xs:sequence>
+      <xs:attribute type="xs:string" name="xmlns"></xs:attribute>
+     </xs:complexType>
+    </xs:element>
+    <xs:element name="ExcelWorkbook">
+     <xs:complexType>
+      <xs:sequence>
+       <xs:element type="xs:int" name="WindowHeight"></xs:element>
+       <xs:element type="xs:int" name="WindowWidth"></xs:element>
+       <xs:element type="xs:int" name="WindowTopX"></xs:element>
+       <xs:element type="xs:int" name="WindowTopY"></xs:element>
+       <xs:element type="xs:int" name="WindowArea"></xs:element>
+       <xs:element type="xs:string" name="ProtectStructure"></xs:element>
+       <xs:element type="xs:string" name="ProtectWindows"></xs:element>
+      </xs:sequence>
+      <xs:attribute type="xs:string" name="xmlns"></xs:attribute>
+     </xs:complexType>
+    </xs:element>
+   </xs:sequence>
+  </xs:complexType>
+ </xs:element>
+</xs:schema>

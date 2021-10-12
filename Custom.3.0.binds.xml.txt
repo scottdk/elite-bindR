@@ -1,0 +1,5 @@
+xs:element (with children)
+--------------------------
+
+xs:element (no children)
+------------------------
